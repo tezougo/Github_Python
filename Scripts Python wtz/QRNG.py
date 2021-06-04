@@ -1,5 +1,10 @@
-import urllib.request;import numpy as np;import json;from plots import plotScatter
+import urllib.request
+import numpy as np
+import json
+from plots import plotScatter
 #------------------------------------------------------------------------------------
+
+
 def GetAnysizeArray(dim):
    if dim <= 1024:
        little = GetRandomArray(dim)
@@ -14,8 +19,10 @@ def GetAnysizeArray(dim):
            large.extend(GetRandomArray(m))
            return large
 #------------------------------------------------------------------------------------
+
+
 def GetRandomArray(dim):
-    d=str(dim)
+    d = str(dim)
     url1 = 'https://qrng.anu.edu.au/API/jsonI.php?length='
     url2 = '&type=uint16'
     url = url1+d+url2
@@ -25,14 +32,19 @@ def GetRandomArray(dim):
     num = data.get("data", "none")
     return num
 #------------------------------------------------------------------------------------
+
+
 def QRNG():
-    a=float(GetRandomArray(1)[0])
-    b=float(a/65535)
+    a = float(GetRandomArray(1)[0])
+    b = float(a/65535)
     return b
 #------------------------------------------------------------------------------------
+
+
 def QRNGtest2(d):
     x = GetAnysizeArray(d)
     y = GetAnysizeArray(d)
-    return plotScatter(x,y)
+    return plotScatter(x, y)
+
 
 QRNGtest2(5000)
