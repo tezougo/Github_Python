@@ -15,14 +15,14 @@ sympy.init_printing(use_unicode=True)
 #                                           x -> b-
 
 def bolzano(f,a,b):
-    c = numpy.random.randint(0, 2)
+    c = numpy.random.uniform(0, 2)
     print(f)
     print("\n f(c)=",f(c))
     print("\n limit(f(x),x,c)=", sympy.limit(f(x), x, c))
     print("\n f(a)=", f(a))
     print("\n limit(f(x),x,a)=", sympy.limit(f(x), x, a))
     print("\n f(b)=", f(b))
-    print("\n limit(f(x),x,b)={} e o resultado t(b)={}", sympy.limit(f(x), x, b), sympy.limit(f(x), x, b).doit())
+    print("\n limit(f(x),x,b)={} e o resultado t(b)={}".format(sympy.limit(f(x), x, b), sympy.limit(f(x), x, b).doit()))
     if((sympy.limit(f(x), x, c) == f(c)) and (sympy.limit(f(x), x, a) == f(a)) and (sympy.limit(f(x), x, b) == f(b))):
 
         if(f(a)*f(b) < 0):

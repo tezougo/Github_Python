@@ -9,6 +9,7 @@ import metodosnumericos.metodosrefinamento.newton_phason as mt_newton_phason
 import metodosnumericos.metodosrefinamento.secantes as mt_secantes
 x = sympy.symbols('x')
 sympy.init_printing(use_unicode=True)
+from sympy.functions import exp
 
 while(True):
     validando = False
@@ -17,6 +18,8 @@ while(True):
     print("\nExemplo:", "(2*ln(x**2))/(sqrt(x)-5*e^(-x))", "a:3",
         "b:5", "precisao: 0.0005\n", sep="\n")
     f = (input("Digite a sua funcao: "))
+    f = f.replace("e", "2.718281828")
+    print(f)
     f = sympy.Lambda(x, sympy.sympify(f))
     a = int(input("Digite a: "))
     b = int(input("Digite b: "))
