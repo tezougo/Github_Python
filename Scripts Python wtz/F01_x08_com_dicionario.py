@@ -43,4 +43,4 @@ def tradutor(nome):
 
 #nao pode haver espaco, ele n reconhece
 
-print(tradutor('suelen'))
+print(tradutor('lutar'))
