@@ -1,0 +1,13 @@
+Discuta o que podemos concluir sobre grafos que possuem sua 
+matriz de adjacência simétrica e não-simétrica. Use até 100
+palavras:
+
+Uma matriz de adjacência simétrica indica que o grafo 
+associado é não direcionado, o que significa que as conexões 
+entre seus nós são bidirecionais e equivalentes. Por outro lado, uma 
+matriz não simétrica sugere a presença de um grafo direcionado, onde 
+as conexões podem ter direções diferentes. Em outras palavras, em 
+grafos não direcionados, se há uma conexão de A para B, há também 
+uma conexão de B para A, enquanto em grafos direcionados, essa 
+relação pode não ser recíproca. Isso afeta como interpretamos as 
+conexões e a dinâmica das relações entre os nós no grafo.
