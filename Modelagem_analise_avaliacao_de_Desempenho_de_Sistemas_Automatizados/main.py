@@ -22,7 +22,7 @@ from igraph import plot
 
 
 # Matriz de adjacência (a)
-matrix_a = [
+matriz_a = [
     [0, 1, 1, 1, 1],
     [1, 0, 1, 1, 1],
     [1, 1, 0, 1, 1],
@@ -31,7 +31,7 @@ matrix_a = [
 ]
 
 # Matriz de adjacência (b)
-matrix_b = [
+matriz_b = [
     [0, 1, 0, 0, 0, 1],
     [1, 0, 1, 0, 0, 0],
     [0, 1, 0, 1, 0, 0],
@@ -41,7 +41,7 @@ matrix_b = [
 ]
 
 # Matriz de adjacência (c)
-matrix_c = [
+matriz_c = [
     [0, 1, 1, 1, 1, 1, 1],
     [1, 0, 0, 0, 0, 0, 0],
     [1, 0, 0, 0, 0, 0, 0],
@@ -52,7 +52,7 @@ matrix_c = [
 ]
 
 # Matriz de adjacência (d)
-matrix_d = [
+matriz_d = [
     [0, 1, 0, 0, 1, 0, 0, 0, 0, 0],
     [1, 0, 1, 0, 0, 1, 0, 0, 0, 0],
     [0, 1, 0, 1, 0, 0, 1, 0, 0, 0],
@@ -66,7 +66,7 @@ matrix_d = [
 ]
 
 # Matriz de adjacência (e)
-matrix_e = [
+matriz_e = [
     [0, 6, 9, 15, 0, 3],
     [0, 0, 2, 0, 0, 0],
     [0, 0, 0, 3, 0, 0],
@@ -76,14 +76,14 @@ matrix_e = [
 ]
 
 # Criação dos objetos Graph
-graph_a = igraph.Graph.Adjacency(matrix_a)
-graph_b = igraph.Graph.Adjacency(matrix_b)
-graph_c = igraph.Graph.Adjacency(matrix_c)
-graph_d = igraph.Graph.Adjacency(matrix_d)
-graph_e = igraph.Graph.Adjacency(matrix_e, mode='directed')
+graph_a = igraph.Graph.Adjacency(matriz_a, mode='undirected')
+graph_b = igraph.Graph.Adjacency(matriz_b, mode='undirected')
+graph_c = igraph.Graph.Adjacency(matriz_c, mode='undirected')
+graph_d = igraph.Graph.Adjacency(matriz_d, mode='undirected')
+graph_e = igraph.Graph.Adjacency(matriz_e, mode='directed')
 
 # Lista de layouts disponíveis
-layouts = ['circle', 'fr', 'lgl', 'rt', 'fr3d', 'kk3d']
+layouts = ['circle', 'fr', 'lgl', 'rt', 'kk3d','fr_3d']
 
 # Função para plotar e salvar gráficos com um layout específico
 def plot_and_save_with_layout(graph, layout_name, filename):
