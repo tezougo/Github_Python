@@ -74,7 +74,6 @@ matriz_e = [
     [0, 1, 0, 0, 0, 1],
     [3, 0, 0, 0, 1, 0]
 ]
-
 # Criação dos objetos Graph
 graph_a = igraph.Graph.Adjacency(matriz_a, mode='undirected')
 graph_b = igraph.Graph.Adjacency(matriz_b, mode='undirected')

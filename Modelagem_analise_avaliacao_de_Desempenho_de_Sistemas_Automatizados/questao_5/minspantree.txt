@@ -1,0 +1,1 @@
+A função minspantree no MATLAB é usada para encontrar a Menor Árvore Geradora (MAG) de um grafo. A MAG é um subgrafo que conecta todos os vértices do grafo original com o menor custo total (ou peso) possível, sem formar ciclos.

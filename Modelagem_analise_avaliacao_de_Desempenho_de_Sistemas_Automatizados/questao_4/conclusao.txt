@@ -1,0 +1,32 @@
+4- Construa o grafo 1d, e aplique o algoritmo de Dijkstra para encontrar o menor caminho de A para D. Faça uma conclusão
+sobre os resultados obtidos. Dica: Utilizar o modo layout 'circle' para facilitar visualização, e, ler sobre a função ‘shortestpath’
+(e suas entradas) no help do MATLAB. Use até 100 palavras. 
+
+
+O algoritmo de Dijkstra é um algoritmo usado para encontrar o caminho mais curto entre dois nós em um grafo ponderado. Ele funciona bem em grafos dirigidos ou não dirigidos, desde que os pesos das arestas sejam não negativos. O algoritmo mantém uma lista de nós cujas distâncias do nó de origem são conhecidas e atualiza essas distâncias à medida que explora o grafo.
+
+LÓGICA:
+
+ChatGPT
+
+O algoritmo de Dijkstra é um algoritmo usado para encontrar o caminho mais curto entre dois nós em um grafo ponderado. Ele funciona bem em grafos dirigidos ou não dirigidos, desde que os pesos das arestas sejam não negativos. O algoritmo mantém uma lista de nós cujas distâncias do nó de origem são conhecidas e atualiza essas distâncias à medida que explora o grafo.
+
+Aqui está uma explicação passo a passo do algoritmo de Dijkstra:
+
+1#  Inicialize todas as distâncias para "infinito" (exceto o nó de origem, que tem distância 0) e uma lista vazia para armazenar os nós visitados.
+
+2#  Comece pelo nó de origem e defina sua distância como 0.
+
+3#  Escolha o nó não visitado mais próximo do nó de origem. Isso pode ser feito verificando a lista de nós não visitados e escolhendo o nó com a menor distância conhecida.
+
+4#  Para o nó escolhido, percorra todas as arestas conectadas a ele e atualize as distâncias dos nós vizinhos, se uma distância menor for encontrada.
+
+5#  Marque o nó atual como visitado.
+
+6#  Repita os passos 3 a 5 até que todos os nós tenham sido visitados ou até que o nó de destino seja visitado.
+
+7#  O caminho mais curto do nó de origem ao nó de destino é dado pelas distâncias calculadas durante a execução do algoritmo.
+
+
+
+Shortestpath: Caminho mais curto entre dois nós individuais

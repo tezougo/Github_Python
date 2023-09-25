@@ -1,0 +1,13 @@
+Menor Árvore Geradora (MAG):
+Em teoria dos grafos, uma MAG de um grafo conectado e não direcionado é um subgrafo que é uma árvore e conecta todos os vértices juntos. Uma única rede pode ter muitas árvores geradoras possíveis, mas uma "menor" árvore geradora é aquela com peso mínimo entre todas as árvores geradoras. O peso de uma árvore geradora é a soma de pesos (neste caso, distâncias) de todas as arestas que ela inclui.
+
+Algoritmo de Prim:
+O algoritmo de Prim é um método famoso para encontrar a MAG de um grafo. Começa com um vértice arbitrário e seleciona a menor aresta conectada a esse vértice. Em seguida, ele continua adicionando a menor aresta conectada ao conjunto de vértices já selecionados, garantindo que nenhuma aresta crie um ciclo. O processo é repetido até que todos os vértices estejam incluídos na árvore.
+
+Código:
+python
+Copy code
+T = nx.minimum_spanning_tree(G)
+Nesta linha, a função minimum_spanning_tree da biblioteca networkx é usada para calcular a MAG do grafo G. A função utiliza o algoritmo de Prim (ou Kruskal, dependendo da implementação) para fazer isso.
+
+O resultado, T, é um novo grafo que representa a MAG do grafo original G. Esse novo grafo contém todos os vértices do grafo original, mas apenas as arestas que fazem parte da MAG.

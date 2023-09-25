@@ -1,0 +1,1601 @@
+[
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "sympy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sympy",
+        "description": "sympy",
+        "detail": "sympy",
+        "documentation": {}
+    },
+    {
+        "label": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "description": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "detail": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Dijkstra",
+        "importPath": "lab_dijkstra",
+        "description": "lab_dijkstra",
+        "isExtraImport": true,
+        "detail": "lab_dijkstra",
+        "documentation": {}
+    },
+    {
+        "label": "networkx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "networkx",
+        "description": "networkx",
+        "detail": "networkx",
+        "documentation": {}
+    },
+    {
+        "label": "distance_matrix",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "Mag",
+        "importPath": "MAG",
+        "description": "MAG",
+        "isExtraImport": true,
+        "detail": "MAG",
+        "documentation": {}
+    },
+    {
+        "label": "igraph",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "igraph",
+        "description": "igraph",
+        "detail": "igraph",
+        "documentation": {}
+    },
+    {
+        "label": "plot",
+        "importPath": "igraph",
+        "description": "igraph",
+        "isExtraImport": true,
+        "detail": "igraph",
+        "documentation": {}
+    },
+    {
+        "label": "plot",
+        "importPath": "igraph",
+        "description": "igraph",
+        "isExtraImport": true,
+        "detail": "igraph",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "mlab",
+        "importPath": "mayavi",
+        "description": "mayavi",
+        "isExtraImport": true,
+        "detail": "mayavi",
+        "documentation": {}
+    },
+    {
+        "label": "getmf",
+        "importPath": "rodar",
+        "description": "rodar",
+        "isExtraImport": true,
+        "detail": "rodar",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "plotScatter",
+        "importPath": "plots",
+        "description": "plots",
+        "isExtraImport": true,
+        "detail": "plots",
+        "documentation": {}
+    },
+    {
+        "label": "ok",
+        "importPath": "gofer",
+        "description": "gofer",
+        "isExtraImport": true,
+        "detail": "gofer",
+        "documentation": {}
+    },
+    {
+        "label": "Robot",
+        "importPath": "robot2link",
+        "description": "robot2link",
+        "isExtraImport": true,
+        "detail": "robot2link",
+        "documentation": {}
+    },
+    {
+        "label": "metodosnumericos.localizacao.teorema_bolzano",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "metodosnumericos.localizacao.teorema_bolzano",
+        "description": "metodosnumericos.localizacao.teorema_bolzano",
+        "detail": "metodosnumericos.localizacao.teorema_bolzano",
+        "documentation": {}
+    },
+    {
+        "label": "metodosnumericos.metodosrefinamento.bissecao",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "metodosnumericos.metodosrefinamento.bissecao",
+        "description": "metodosnumericos.metodosrefinamento.bissecao",
+        "detail": "metodosnumericos.metodosrefinamento.bissecao",
+        "documentation": {}
+    },
+    {
+        "label": "metodosnumericos.metodosrefinamento.falsa_posicao",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "metodosnumericos.metodosrefinamento.falsa_posicao",
+        "description": "metodosnumericos.metodosrefinamento.falsa_posicao",
+        "detail": "metodosnumericos.metodosrefinamento.falsa_posicao",
+        "documentation": {}
+    },
+    {
+        "label": "metodosnumericos.metodosrefinamento.newton_phason",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "metodosnumericos.metodosrefinamento.newton_phason",
+        "description": "metodosnumericos.metodosrefinamento.newton_phason",
+        "detail": "metodosnumericos.metodosrefinamento.newton_phason",
+        "documentation": {}
+    },
+    {
+        "label": "metodosnumericos.metodosrefinamento.secantes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "metodosnumericos.metodosrefinamento.secantes",
+        "description": "metodosnumericos.metodosrefinamento.secantes",
+        "detail": "metodosnumericos.metodosrefinamento.secantes",
+        "documentation": {}
+    },
+    {
+        "label": "exp",
+        "importPath": "sympy.functions",
+        "description": "sympy.functions",
+        "isExtraImport": true,
+        "detail": "sympy.functions",
+        "documentation": {}
+    },
+    {
+        "label": "set_prefs",
+        "kind": 2,
+        "importPath": ".Googol experimentos.config",
+        "description": ".Googol experimentos.config",
+        "peekOfCode": "def set_prefs(prefs):\n    \"\"\"This function is called before opening the project\"\"\"\n    # Specify which files and folders to ignore in the project.\n    # Changes to ignored resources are not added to the history and\n    # VCSs.  Also they are not returned in `Project.get_files()`.\n    # Note that ``?`` and ``*`` match all characters but slashes.\n    # '*.pyc': matches 'test.pyc' and 'pkg/test.pyc'\n    # 'mod*.pyc': matches 'test/mod1.pyc' but not 'mod/1.pyc'\n    # '.svn': matches 'pkg/.svn' and all of its children\n    # 'build/*.o': matches 'build/lib.o' but not 'build/sub/lib.o'",
+        "detail": ".Googol experimentos.config",
+        "documentation": {}
+    },
+    {
+        "label": "project_opened",
+        "kind": 2,
+        "importPath": ".Googol experimentos.config",
+        "description": ".Googol experimentos.config",
+        "peekOfCode": "def project_opened(project):\n    \"\"\"This function is called after opening the project\"\"\"\n    # Do whatever you like here!",
+        "detail": ".Googol experimentos.config",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 2,
+        "importPath": ".Googol experimentos.Experimento",
+        "description": ".Googol experimentos.Experimento",
+        "peekOfCode": "def f(x):\n    return (math.exp(x)) / ((math.exp(x)) + 1)\ns = 0\nvt = 0\nv = 0\nd = 0\nfor i in range(0, 100):\n    print(vt)\n    for i in range(0, 1000):\n        #print('\\njogadas {}'.format(i + 1))",
+        "detail": ".Googol experimentos.Experimento",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": ".Googol experimentos.Experimento",
+        "description": ".Googol experimentos.Experimento",
+        "peekOfCode": "s = 0\nvt = 0\nv = 0\nd = 0\nfor i in range(0, 100):\n    print(vt)\n    for i in range(0, 1000):\n        #print('\\njogadas {}'.format(i + 1))\n        z = random.uniform(0, 1)\n        mao1 = random.uniform(0, 1)",
+        "detail": ".Googol experimentos.Experimento",
+        "documentation": {}
+    },
+    {
+        "label": "vt",
+        "kind": 5,
+        "importPath": ".Googol experimentos.Experimento",
+        "description": ".Googol experimentos.Experimento",
+        "peekOfCode": "vt = 0\nv = 0\nd = 0\nfor i in range(0, 100):\n    print(vt)\n    for i in range(0, 1000):\n        #print('\\njogadas {}'.format(i + 1))\n        z = random.uniform(0, 1)\n        mao1 = random.uniform(0, 1)\n        mao2 = random.uniform(0, 1)",
+        "detail": ".Googol experimentos.Experimento",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": ".Googol experimentos.Experimento",
+        "description": ".Googol experimentos.Experimento",
+        "peekOfCode": "v = 0\nd = 0\nfor i in range(0, 100):\n    print(vt)\n    for i in range(0, 1000):\n        #print('\\njogadas {}'.format(i + 1))\n        z = random.uniform(0, 1)\n        mao1 = random.uniform(0, 1)\n        mao2 = random.uniform(0, 1)\n        if z >= f(mao1):",
+        "detail": ".Googol experimentos.Experimento",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": ".Googol experimentos.Experimento",
+        "description": ".Googol experimentos.Experimento",
+        "peekOfCode": "d = 0\nfor i in range(0, 100):\n    print(vt)\n    for i in range(0, 1000):\n        #print('\\njogadas {}'.format(i + 1))\n        z = random.uniform(0, 1)\n        mao1 = random.uniform(0, 1)\n        mao2 = random.uniform(0, 1)\n        if z >= f(mao1):\n            # print('numero gerado com aleatoriedade verdadeira {}'.format(z))",
+        "detail": ".Googol experimentos.Experimento",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 2,
+        "importPath": ".Googol experimentos.Program Googol atom",
+        "description": ".Googol experimentos.Program Googol atom",
+        "peekOfCode": "def f(x):\n    return (math.exp(x)) / ((math.exp(x)) + 1)\nv = 0\nd = 0\nfor i in range(0, 1000):\n    #print('\\njogadas {}'.format(i + 1))\n    z = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)\n    if z >= f(mao1):",
+        "detail": ".Googol experimentos.Program Googol atom",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": ".Googol experimentos.Program Googol atom",
+        "description": ".Googol experimentos.Program Googol atom",
+        "peekOfCode": "v = 0\nd = 0\nfor i in range(0, 1000):\n    #print('\\njogadas {}'.format(i + 1))\n    z = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)\n    if z >= f(mao1):\n        # print('numero gerado com aleatoriedade verdadeira {}'.format(z))\n        #print('segunda mão é maior baseado no número {}'.format(z))",
+        "detail": ".Googol experimentos.Program Googol atom",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": ".Googol experimentos.Program Googol atom",
+        "description": ".Googol experimentos.Program Googol atom",
+        "peekOfCode": "d = 0\nfor i in range(0, 1000):\n    #print('\\njogadas {}'.format(i + 1))\n    z = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)\n    if z >= f(mao1):\n        # print('numero gerado com aleatoriedade verdadeira {}'.format(z))\n        #print('segunda mão é maior baseado no número {}'.format(z))\n        #print('primeira mão é {}, segunda mao é {}'.format(f(mao1), f(mao2)))",
+        "detail": ".Googol experimentos.Program Googol atom",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": ".Googol experimentos.Program Googol atom",
+        "description": ".Googol experimentos.Program Googol atom",
+        "peekOfCode": "p = (100*v/1000)\nprint(\"\\nJogadas {}\".format(i+1))\nprint('\\nDerrotas {} e vitórias {}'.format(d,v))\nprint(\"\\nPorcentagem de vitórias é {}%\".format(p))",
+        "detail": ".Googol experimentos.Program Googol atom",
+        "documentation": {}
+    },
+    {
+        "label": "Neuron",
+        "kind": 6,
+        "importPath": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "description": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "peekOfCode": "class Neuron:\n    def __init__(self, input_size): # input_size pesos\n        self.w = np.array(input_size) #pesos\n        self.b = -0.5 # bias, um numero somado ao resultado funcao de ativacao\n    def compute(self, inputs): # calcula a saido do neuronio para uma determinada entrada\n        s = np.dot(self.w, inputs) + self.b # multiplica peso pela entrada\n        z = tangente_hiperb(s)\n        return z\nn = Neuron([-1, 0, 1]) # instancia n\nprint(n.compute([1.0, 20.0, 3.0])) # chama a funcao compute passando como entrada 5 numeros",
+        "detail": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "documentation": {}
+    },
+    {
+        "label": "tangente_hiperb",
+        "kind": 2,
+        "importPath": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "description": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "peekOfCode": "def tangente_hiperb(a):\n    return np.tanh(a)\nclass Neuron:\n    def __init__(self, input_size): # input_size pesos\n        self.w = np.array(input_size) #pesos\n        self.b = -0.5 # bias, um numero somado ao resultado funcao de ativacao\n    def compute(self, inputs): # calcula a saido do neuronio para uma determinada entrada\n        s = np.dot(self.w, inputs) + self.b # multiplica peso pela entrada\n        z = tangente_hiperb(s)\n        return z",
+        "detail": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "description": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "peekOfCode": "n = Neuron([-1, 0, 1]) # instancia n\nprint(n.compute([1.0, 20.0, 3.0])) # chama a funcao compute passando como entrada 5 numeros",
+        "detail": "Deeping_Learning.Códigos_Deep.Codigo_neuronio",
+        "documentation": {}
+    },
+    {
+        "label": "Perceptron",
+        "kind": 6,
+        "importPath": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "description": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "peekOfCode": "class Perceptron():\n  def __init__(self, n_inputs=3, n_hidden=4, n_outputs=3):\n    # Sinapses\n    self.w_ih = np.array([[1.12, 0.92, 1.28], [-0.88, -1.02, -1.46], [1.06, 0.63, 0.38], [-1.5, -1.99, -2.31]])\n    self.w_ho = np.array([[0.54, 2.51, -1.81, 5.15], [-6.22, -4.08, 1.75, -3.47], [5.89, 1.58, -1.72, -4.06]])\n    # Biases\n    self.b_hid = np.array([[-8.86], [+4.36], [-1.87], [+4.79]])\n    self.b_out = np.array([[-0.82], [0.76], [-1.35]])\n  def compute(self, inputs):\n    # Garante que a entrada seja um vetor coluna",
+        "detail": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "kind": 2,
+        "importPath": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "description": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "peekOfCode": "def sigmoid(x):\n    return 1.0 / (1.0 + np.exp(-x))\n# class Perceptron():\n#     def __init__(self, n_inputs=4, n_hidden=8, n_outputs=1):\n#         self.w_ih = np.random.random((n_hidden, n_inputs))\n#         self.w_ho = np.random.random((n_outputs, n_hidden))\n#         self.b_hid = np.random.random((n_hidden))\n#         self.b_out = np.random.random((n_outputs))\n#     def compute(self, inputs):\n#         self.s_hid = np.dot(self.w_ih, inputs) + self.b_hid",
+        "detail": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "description": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "peekOfCode": "p = Perceptron()\nprint(p.compute([2.0, 2.0, 2.0])) #print(p.compute([[1.0, 1.0, 1.0], [2.0, 2.0, 2.0], [3.0, 3.0, 3.0]]))\n# plt.plot(p.compute([1.0, 2.0, 3.0]))\n# plt.show()",
+        "detail": "Deeping_Learning.Códigos_Deep.Rede_perceptron",
+        "documentation": {}
+    },
+    {
+        "label": "bolzano",
+        "kind": 2,
+        "importPath": "metodosnumericos.localizacao.teorema_bolzano",
+        "description": "metodosnumericos.localizacao.teorema_bolzano",
+        "peekOfCode": "def bolzano(f,a,b):\n    c = numpy.random.uniform(0, 2)\n    print(f)\n    print(\"\\n f(c)=\",f(c))\n    print(\"\\n limit(f(x),x,c)=\", sympy.limit(f(x), x, c))\n    print(\"\\n f(a)=\", f(a))\n    print(\"\\n limit(f(x),x,a)=\", sympy.limit(f(x), x, a))\n    print(\"\\n f(b)=\", f(b))\n    print(\"\\n limit(f(x),x,b)={} e o resultado t(b)={}\".format(sympy.limit(f(x), x, b), sympy.limit(f(x), x, b).doit()))\n    if((sympy.limit(f(x), x, c) == f(c)) and (sympy.limit(f(x), x, a) == f(a)) and (sympy.limit(f(x), x, b) == f(b))):",
+        "detail": "metodosnumericos.localizacao.teorema_bolzano",
+        "documentation": {}
+    },
+    {
+        "label": "x,y",
+        "kind": 5,
+        "importPath": "metodosnumericos.localizacao.teorema_bolzano",
+        "description": "metodosnumericos.localizacao.teorema_bolzano",
+        "peekOfCode": "x,y = sympy.symbols('x y')\nsympy.init_printing(use_unicode=True)\n# Seja f(x) continua no intervalo [a,b] e f(a).f(b) < 0 , então existe pelo menos um ponto em que x pertencente ao intervalo (a,b) tal que f(x) = 0.\n# Teste continuidade no intervalo [a,b]:\n#   f deve ser continua em [a,b].       lim f(x) = f(c) , para todo c pertencente ao intervalo (a,b).\n#                                       x -> c\n#   f deve ser continua a direita de a.     lim f(x) = f(a)\n#                                           x -> a+\n#   f deve ser continua a esquerda de b.    lim f(x) = f(b)\n#                                           x -> b-",
+        "detail": "metodosnumericos.localizacao.teorema_bolzano",
+        "documentation": {}
+    },
+    {
+        "label": "bissec",
+        "kind": 2,
+        "importPath": "metodosnumericos.metodosrefinamento.bissecao",
+        "description": "metodosnumericos.metodosrefinamento.bissecao",
+        "peekOfCode": "def bissec(f, a, b, precisao):\n    if(f(a)*f(b) < 0):\n        analise = verifica.criterio(f, a, b, precisao)\n        if(analise == True):\n            return analise\n        else:\n            ponto_m = (a+b)/2\n            if(f(ponto_m)*f(b) < 0):\n                return bissec(f, ponto_m, b, precisao)\n            else:",
+        "detail": "metodosnumericos.metodosrefinamento.bissecao",
+        "documentation": {}
+    },
+    {
+        "label": "criterio",
+        "kind": 2,
+        "importPath": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "description": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "peekOfCode": "def criterio(f, a, b, precisao):\n    if(abs(b-a) < precisao):\n        print(\"\\n Solucao pelo dominio |{} - {}| < {}\".format(b, a, precisao))\n        return True\n    elif((abs(f(a)) < precisao) | (abs(f(b)) < precisao)):\n        print(\"\\n Solucao pela imagem |f({})|={} < |{}|ou |f({})|={} < |{}|\".format(b,f(b),precisao,a,f(a),precisao))\n        return True",
+        "detail": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "description": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "peekOfCode": "x = sympy.symbols('x')\nsympy.init_printing(use_unicode=True)\ndef criterio(f, a, b, precisao):\n    if(abs(b-a) < precisao):\n        print(\"\\n Solucao pelo dominio |{} - {}| < {}\".format(b, a, precisao))\n        return True\n    elif((abs(f(a)) < precisao) | (abs(f(b)) < precisao)):\n        print(\"\\n Solucao pela imagem |f({})|={} < |{}|ou |f({})|={} < |{}|\".format(b,f(b),precisao,a,f(a),precisao))\n        return True",
+        "detail": "metodosnumericos.metodosrefinamento.criterios_para_solucao",
+        "documentation": {}
+    },
+    {
+        "label": "matriz_a",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_2.matriz",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_2.matriz",
+        "peekOfCode": "matriz_a = [\n    [0, 1, 0, 0, 1, 0], #1\n    [1, 0, 1, 0, 1, 0], #2\n    [0, 1, 0, 1, 0, 0], #3\n    [0, 0, 1, 0, 1, 1], #4\n    [1, 1, 0, 1, 0, 0], #5\n    [0, 0, 0, 1, 0, 0]  #6\n]   #1  2  3  4  5  6\nmatriz_b = [\n    [0, 1, 1, 0], #1",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_2.matriz",
+        "documentation": {}
+    },
+    {
+        "label": "matriz_b",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_2.matriz",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_2.matriz",
+        "peekOfCode": "matriz_b = [\n    [0, 1, 1, 0], #1\n    [1, 0, 1, 0], #2\n    [1, 1, 0, 1], #3\n    [0, 0, 1, 0], #4\n]   #1  2  3  4",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_2.matriz",
+        "documentation": {}
+    },
+    {
+        "label": "matriz_e",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "peekOfCode": "matriz_e = [\n    [0, 6, 9, 15, 0, 3],\n    [0, 0, 2, 0, 0, 0],\n    [0, 0, 0, 3, 0, 0],\n    [2, 0, 0, 0, 5, 0],\n    [0, 1, 0, 0, 0, 1],\n    [3, 0, 0, 0, 1, 0]\n]\nmatriz_d =[ [0, 1, 0, 0, 1, 0, 0, 0, 0, 0],\n            [1, 0, 1, 0, 0, 1, 0, 0, 0, 0],",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "documentation": {}
+    },
+    {
+        "label": "dijkstra_1",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "peekOfCode": "dijkstra_1 = Dijkstra(matriz_e)\ninicio = 0  # A é o 1º vértice, então seu índice é 0\ndijkstra_1.plotar_grafo_circulo('matriz_e.png')\nprint(dijkstra_1.calcular_caminhos(inicio))\ndijkstra_2 = Dijkstra(matriz_d)\ninicio = 0\ndijkstra_2.plotar_grafo_circulo('matriz_d.png')\nprint(dijkstra_2.calcular_caminhos(inicio))",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "documentation": {}
+    },
+    {
+        "label": "inicio",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "peekOfCode": "inicio = 0  # A é o 1º vértice, então seu índice é 0\ndijkstra_1.plotar_grafo_circulo('matriz_e.png')\nprint(dijkstra_1.calcular_caminhos(inicio))\ndijkstra_2 = Dijkstra(matriz_d)\ninicio = 0\ndijkstra_2.plotar_grafo_circulo('matriz_d.png')\nprint(dijkstra_2.calcular_caminhos(inicio))",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "documentation": {}
+    },
+    {
+        "label": "dijkstra_2",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "peekOfCode": "dijkstra_2 = Dijkstra(matriz_d)\ninicio = 0\ndijkstra_2.plotar_grafo_circulo('matriz_d.png')\nprint(dijkstra_2.calcular_caminhos(inicio))",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "documentation": {}
+    },
+    {
+        "label": "inicio",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "peekOfCode": "inicio = 0\ndijkstra_2.plotar_grafo_circulo('matriz_d.png')\nprint(dijkstra_2.calcular_caminhos(inicio))",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_4.menor_caminho",
+        "documentation": {}
+    },
+    {
+        "label": "Mag",
+        "kind": 6,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.MAG",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.MAG",
+        "peekOfCode": "class Mag:\n    def __init__(self):\n        pass\n    def calcular_menor_arvore_geradora(self, XY_Points, nodesName):\n        # Calculando as distâncias entre os pontos usando a função distance_matrix\n        # Isso cria uma matriz onde o elemento (i, j) é a distância euclidiana entre o ponto i e o ponto j\n        # A distância euclidiana entre dois pontos (x1, y1) e (x2, y2) é calculada como:\n        # sqrt((x2 - x1)^2 + (y2 - y1)^2)\n        # Por exemplo, a distância entre os pontos (1, 2) e (4, 6) é 5.\n        Adj_ndir = distance_matrix(XY_Points, XY_Points)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.MAG",
+        "documentation": {}
+    },
+    {
+        "label": "XY_Points",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "peekOfCode": "XY_Points = np.array([\n            [10, 25],\n            [10, 42],\n            [20, 6],\n            [30, 11],\n            [40, 33],\n            [22, 18],\n            [26, 25]\n        ])\nnodesName = ['A', 'B', 'C', 'D', 'E', 'F', 'G']",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "documentation": {}
+    },
+    {
+        "label": "nodesName",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "peekOfCode": "nodesName = ['A', 'B', 'C', 'D', 'E', 'F', 'G']\nmag_instance = Mag()\nmag_instance.calcular_menor_arvore_geradora(XY_Points, nodesName)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "documentation": {}
+    },
+    {
+        "label": "mag_instance",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "peekOfCode": "mag_instance = Mag()\nmag_instance.calcular_menor_arvore_geradora(XY_Points, nodesName)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_5.menorArvGer",
+        "documentation": {}
+    },
+    {
+        "label": "Dijkstra",
+        "kind": 6,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_dijkstra",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_dijkstra",
+        "peekOfCode": "class Dijkstra:\n    def __init__(self, matriz):\n        # Matriz de adjacência que representa o grafo\n        self.matriz = matriz\n        #Verifica se a matriz é direcionada ou não\n    def is_directed(self):\n        for i in range(len(self.matriz)):\n                for j in range(len(self.matriz)):\n                    if self.matriz[i][j] != self.matriz[j][i]:\n                        print(\"A matriz é direcionada\")",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_dijkstra",
+        "documentation": {}
+    },
+    {
+        "label": "Grafo",
+        "kind": 6,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_grafo",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_grafo",
+        "peekOfCode": "class Grafo:\n    def __init__(self):\n        self\n        pass\n    def insereAresta(self, orig, dest, eh_digrafo, peso):\n        pass\n    def plot_grafo():\n        pass",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_grafo",
+        "documentation": {}
+    },
+    {
+        "label": "plot_and_save_with_layout",
+        "kind": 2,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "def plot_and_save_with_layout(graph, layout_name, filename):\n    layout = layout_name\n    plot(graph, layout=layout, bbox=(300, 300), vertex_label=range(len(graph.vs))).save(f\"./grafos_plot/{filename}\")\n# Executar a plotagem e salvamento para cada layout\nfor layout_name in layouts:\n    plot_and_save_with_layout(graph_a, layout_name, f\"grafo_a_{layout_name}.png\")\n    plot_and_save_with_layout(graph_b, layout_name, f\"grafo_b_{layout_name}.png\")\n    plot_and_save_with_layout(graph_c, layout_name, f\"grafo_c_{layout_name}.png\")\n    plot_and_save_with_layout(graph_d, layout_name, f\"grafo_d_{layout_name}.png\")\n    plot_and_save_with_layout(graph_e, layout_name, f\"grafo_e_{layout_name}.png\")",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "matriz_a",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "matriz_a = [\n    [0, 1, 1, 1, 1],\n    [1, 0, 1, 1, 1],\n    [1, 1, 0, 1, 1],\n    [1, 1, 1, 0, 1],\n    [1, 1, 1, 1, 0]\n]\n# Matriz de adjacência (b)\nmatriz_b = [\n    [0, 1, 0, 0, 0, 1],",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "matriz_b",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "matriz_b = [\n    [0, 1, 0, 0, 0, 1],\n    [1, 0, 1, 0, 0, 0],\n    [0, 1, 0, 1, 0, 0],\n    [0, 0, 1, 0, 1, 0],\n    [0, 0, 0, 1, 0, 1],\n    [1, 0, 0, 0, 1, 0]\n]\n# Matriz de adjacência (c)\nmatriz_c = [",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "matriz_c",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "matriz_c = [\n    [0, 1, 1, 1, 1, 1, 1],\n    [1, 0, 0, 0, 0, 0, 0],\n    [1, 0, 0, 0, 0, 0, 0],\n    [1, 0, 0, 0, 0, 0, 0],\n    [1, 0, 0, 0, 0, 0, 0],\n    [1, 0, 0, 0, 0, 0, 0],\n    [1, 0, 0, 0, 0, 0, 0]\n]\n# Matriz de adjacência (d)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "matriz_d",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "matriz_d = [\n    [0, 1, 0, 0, 1, 0, 0, 0, 0, 0],\n    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0],\n    [0, 1, 0, 1, 0, 0, 1, 0, 0, 0],\n    [0, 0, 1, 0, 0, 0, 0, 1, 0, 0],\n    [1, 0, 0, 0, 0, 1, 0, 0, 1, 0],\n    [0, 1, 0, 0, 1, 0, 1, 0, 0, 1],\n    [0, 0, 1, 0, 0, 1, 0, 1, 0, 0],\n    [0, 0, 0, 1, 0, 0, 1, 0, 1, 0],\n    [0, 0, 0, 0, 1, 0, 0, 1, 0, 1],",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "matriz_e",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "matriz_e = [\n    [0, 6, 9, 15, 0, 3],\n    [0, 0, 2, 0, 0, 0],\n    [0, 0, 0, 3, 0, 0],\n    [2, 0, 0, 0, 5, 0],\n    [0, 1, 0, 0, 0, 1],\n    [3, 0, 0, 0, 1, 0]\n]\n# Criação dos objetos Graph\ngraph_a = igraph.Graph.Adjacency(matriz_a, mode='undirected')",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "graph_a",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "graph_a = igraph.Graph.Adjacency(matriz_a, mode='undirected')\ngraph_b = igraph.Graph.Adjacency(matriz_b, mode='undirected')\ngraph_c = igraph.Graph.Adjacency(matriz_c, mode='undirected')\ngraph_d = igraph.Graph.Adjacency(matriz_d, mode='undirected')\ngraph_e = igraph.Graph.Adjacency(matriz_e, mode='directed')\n# Lista de layouts disponíveis\nlayouts = ['circle', 'fr', 'lgl', 'rt', 'kk3d','fr_3d']\n# Função para plotar e salvar gráficos com um layout específico\ndef plot_and_save_with_layout(graph, layout_name, filename):\n    layout = layout_name",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "graph_b",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "graph_b = igraph.Graph.Adjacency(matriz_b, mode='undirected')\ngraph_c = igraph.Graph.Adjacency(matriz_c, mode='undirected')\ngraph_d = igraph.Graph.Adjacency(matriz_d, mode='undirected')\ngraph_e = igraph.Graph.Adjacency(matriz_e, mode='directed')\n# Lista de layouts disponíveis\nlayouts = ['circle', 'fr', 'lgl', 'rt', 'kk3d','fr_3d']\n# Função para plotar e salvar gráficos com um layout específico\ndef plot_and_save_with_layout(graph, layout_name, filename):\n    layout = layout_name\n    plot(graph, layout=layout, bbox=(300, 300), vertex_label=range(len(graph.vs))).save(f\"./grafos_plot/{filename}\")",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "graph_c",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "graph_c = igraph.Graph.Adjacency(matriz_c, mode='undirected')\ngraph_d = igraph.Graph.Adjacency(matriz_d, mode='undirected')\ngraph_e = igraph.Graph.Adjacency(matriz_e, mode='directed')\n# Lista de layouts disponíveis\nlayouts = ['circle', 'fr', 'lgl', 'rt', 'kk3d','fr_3d']\n# Função para plotar e salvar gráficos com um layout específico\ndef plot_and_save_with_layout(graph, layout_name, filename):\n    layout = layout_name\n    plot(graph, layout=layout, bbox=(300, 300), vertex_label=range(len(graph.vs))).save(f\"./grafos_plot/{filename}\")\n# Executar a plotagem e salvamento para cada layout",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "graph_d",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "graph_d = igraph.Graph.Adjacency(matriz_d, mode='undirected')\ngraph_e = igraph.Graph.Adjacency(matriz_e, mode='directed')\n# Lista de layouts disponíveis\nlayouts = ['circle', 'fr', 'lgl', 'rt', 'kk3d','fr_3d']\n# Função para plotar e salvar gráficos com um layout específico\ndef plot_and_save_with_layout(graph, layout_name, filename):\n    layout = layout_name\n    plot(graph, layout=layout, bbox=(300, 300), vertex_label=range(len(graph.vs))).save(f\"./grafos_plot/{filename}\")\n# Executar a plotagem e salvamento para cada layout\nfor layout_name in layouts:",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "graph_e",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "graph_e = igraph.Graph.Adjacency(matriz_e, mode='directed')\n# Lista de layouts disponíveis\nlayouts = ['circle', 'fr', 'lgl', 'rt', 'kk3d','fr_3d']\n# Função para plotar e salvar gráficos com um layout específico\ndef plot_and_save_with_layout(graph, layout_name, filename):\n    layout = layout_name\n    plot(graph, layout=layout, bbox=(300, 300), vertex_label=range(len(graph.vs))).save(f\"./grafos_plot/{filename}\")\n# Executar a plotagem e salvamento para cada layout\nfor layout_name in layouts:\n    plot_and_save_with_layout(graph_a, layout_name, f\"grafo_a_{layout_name}.png\")",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "layouts",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "peekOfCode": "layouts = ['circle', 'fr', 'lgl', 'rt', 'kk3d','fr_3d']\n# Função para plotar e salvar gráficos com um layout específico\ndef plot_and_save_with_layout(graph, layout_name, filename):\n    layout = layout_name\n    plot(graph, layout=layout, bbox=(300, 300), vertex_label=range(len(graph.vs))).save(f\"./grafos_plot/{filename}\")\n# Executar a plotagem e salvamento para cada layout\nfor layout_name in layouts:\n    plot_and_save_with_layout(graph_a, layout_name, f\"grafo_a_{layout_name}.png\")\n    plot_and_save_with_layout(graph_b, layout_name, f\"grafo_b_{layout_name}.png\")\n    plot_and_save_with_layout(graph_c, layout_name, f\"grafo_c_{layout_name}.png\")",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "nome",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Conhecendo",
+        "description": "Scripts Python wtz.Conhecendo",
+        "peekOfCode": "nome = input('qual é o seu nome? ')\nprint('olá',nome,'prazer em conhece-lo!')",
+        "detail": "Scripts Python wtz.Conhecendo",
+        "documentation": {}
+    },
+    {
+        "label": "dia",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.data de nascimento",
+        "description": "Scripts Python wtz.data de nascimento",
+        "peekOfCode": "dia = input('qual o dia que você nasceu? ')\nmes = input('qual o mês que você nasceu? ')\nano = input('qual o ano você nasceu? ')\nprint('Então você nasceu no dia',dia,'de',mes,'do ano de',ano,'?')",
+        "detail": "Scripts Python wtz.data de nascimento",
+        "documentation": {}
+    },
+    {
+        "label": "mes",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.data de nascimento",
+        "description": "Scripts Python wtz.data de nascimento",
+        "peekOfCode": "mes = input('qual o mês que você nasceu? ')\nano = input('qual o ano você nasceu? ')\nprint('Então você nasceu no dia',dia,'de',mes,'do ano de',ano,'?')",
+        "detail": "Scripts Python wtz.data de nascimento",
+        "documentation": {}
+    },
+    {
+        "label": "ano",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.data de nascimento",
+        "description": "Scripts Python wtz.data de nascimento",
+        "peekOfCode": "ano = input('qual o ano você nasceu? ')\nprint('Então você nasceu no dia',dia,'de',mes,'do ano de',ano,'?')",
+        "detail": "Scripts Python wtz.data de nascimento",
+        "documentation": {}
+    },
+    {
+        "label": "produto",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex1",
+        "description": "Scripts Python wtz.F01_ex1",
+        "peekOfCode": "def produto(a,b):\n\tif a*b > 1000:\n\t\treturn a+b\n\telse:\n\t\treturn a*b\nprint(produto(a,b))",
+        "detail": "Scripts Python wtz.F01_ex1",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex1",
+        "description": "Scripts Python wtz.F01_ex1",
+        "peekOfCode": "a = 500\nb = 2\ndef produto(a,b):\n\tif a*b > 1000:\n\t\treturn a+b\n\telse:\n\t\treturn a*b\nprint(produto(a,b))",
+        "detail": "Scripts Python wtz.F01_ex1",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex1",
+        "description": "Scripts Python wtz.F01_ex1",
+        "peekOfCode": "b = 2\ndef produto(a,b):\n\tif a*b > 1000:\n\t\treturn a+b\n\telse:\n\t\treturn a*b\nprint(produto(a,b))",
+        "detail": "Scripts Python wtz.F01_ex1",
+        "documentation": {}
+    },
+    {
+        "label": "d1",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex10",
+        "description": "Scripts Python wtz.F01_ex10",
+        "peekOfCode": "d1 = {'Dez' : 10, 'Vinte' : 20, 'Trinta' : 30}\nd2 = {'Trinta' : 30, 'Quarenta' : 40, 'Cinquenta' : 50}\nd1.update(d2)\nprint(d1)",
+        "detail": "Scripts Python wtz.F01_ex10",
+        "documentation": {}
+    },
+    {
+        "label": "d2",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex10",
+        "description": "Scripts Python wtz.F01_ex10",
+        "peekOfCode": "d2 = {'Trinta' : 30, 'Quarenta' : 40, 'Cinquenta' : 50}\nd1.update(d2)\nprint(d1)",
+        "detail": "Scripts Python wtz.F01_ex10",
+        "documentation": {}
+    },
+    {
+        "label": "procurando2",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex11",
+        "description": "Scripts Python wtz.F01_ex11",
+        "peekOfCode": "def procurando2(item_procurado, dicionario):\n  '''\n  Retorna uma lista com todos valores cuja chave\n  seja igual à string item_procurado.\n  '''\n  resultados = list()\n  for chave in dicionario:\n    if chave == item_procurado:\n      resultados.append(dicionario[chave])\n    elif isinstance(dicionario[chave], dict):",
+        "detail": "Scripts Python wtz.F01_ex11",
+        "documentation": {}
+    },
+    {
+        "label": "sampleDict",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex11",
+        "description": "Scripts Python wtz.F01_ex11",
+        "peekOfCode": "sampleDict = {\n    \"class\": {\n       \"student\":{\n           \"name\": \"Mike\",\n           \"marks\":{\n               \"physics\":70,\n               \"history\":80\n           }\n       }\n    }",
+        "detail": "Scripts Python wtz.F01_ex11",
+        "documentation": {}
+    },
+    {
+        "label": "Veiculo",
+        "kind": 6,
+        "importPath": "Scripts Python wtz.F01_ex12",
+        "description": "Scripts Python wtz.F01_ex12",
+        "peekOfCode": "class Veiculo:\n    def __init__(self, nome, max_vel, quilometragem):\n        self.nome = nome\n        self.max_vel = max_vel\n        self.quilometragem = quilometragem\n# class Onibus:\n#      def __init__(self, onibus_1):\n#          self.onibus_1 = onibus_1\n#\n# altomovel = Onibus(Veiculo('fusca','60','2000'))",
+        "detail": "Scripts Python wtz.F01_ex12",
+        "documentation": {}
+    },
+    {
+        "label": "Onibus",
+        "kind": 6,
+        "importPath": "Scripts Python wtz.F01_ex12",
+        "description": "Scripts Python wtz.F01_ex12",
+        "peekOfCode": "class Onibus(Veiculo):\n    def __init__(self, onibus_1, nome, max_vel, quilometragem):\n        super().__init__(nome, max_vel, quilometragem)\n        self.onibus_1 = onibus_1\nsaida=Onibus('Escolar','bixo papao', '60', '1000')\nprint('O onibus '+str(saida.onibus_1)+' rodou '+str(saida.quilometragem)+' km ate agora.')",
+        "detail": "Scripts Python wtz.F01_ex12",
+        "documentation": {}
+    },
+    {
+        "label": "recebe_array_np",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "description": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "peekOfCode": "def recebe_array_np(array_0):\n    array_0[array_0 % 2 == 0] = -1\n    return array_0\nprint(recebe_array_np(array_a))",
+        "detail": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "documentation": {}
+    },
+    {
+        "label": "array_x",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "description": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "peekOfCode": "array_x = np.arange(1,5)\narray_a = np.random.randint(0, 16, (4,4))\ndef recebe_array_np(array_0):\n    array_0[array_0 % 2 == 0] = -1\n    return array_0\nprint(recebe_array_np(array_a))",
+        "detail": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "documentation": {}
+    },
+    {
+        "label": "array_a",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "description": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "peekOfCode": "array_a = np.random.randint(0, 16, (4,4))\ndef recebe_array_np(array_0):\n    array_0[array_0 % 2 == 0] = -1\n    return array_0\nprint(recebe_array_np(array_a))",
+        "detail": "Scripts Python wtz.F01_ex16_array_analisando_elementos_matrizes",
+        "documentation": {}
+    },
+    {
+        "label": "array_0",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex17_array_dimensoes",
+        "description": "Scripts Python wtz.F01_ex17_array_dimensoes",
+        "peekOfCode": "array_0 = np.array([array_0[:5]] + [array_0[5:]])\nprint(array_0)",
+        "detail": "Scripts Python wtz.F01_ex17_array_dimensoes",
+        "documentation": {}
+    },
+    {
+        "label": "array_0",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex18_array_analise_retirar_elementos",
+        "description": "Scripts Python wtz.F01_ex18_array_analise_retirar_elementos",
+        "peekOfCode": "array_0 = np.random.randint(0, 10, 10)\nprint (array_0)\narray_0 = np.delete(array_0, [4,5,6,7])\nprint(array_0)",
+        "detail": "Scripts Python wtz.F01_ex18_array_analise_retirar_elementos",
+        "documentation": {}
+    },
+    {
+        "label": "array_0",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex18_array_analise_retirar_elementos",
+        "description": "Scripts Python wtz.F01_ex18_array_analise_retirar_elementos",
+        "peekOfCode": "array_0 = np.delete(array_0, [4,5,6,7])\nprint(array_0)",
+        "detail": "Scripts Python wtz.F01_ex18_array_analise_retirar_elementos",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "description": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "peekOfCode": "url = 'https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'\nsepallength = np.genfromtxt(url, delimiter=',', dtype='float', usecols=[0])\nsoma = (sum(sepallength**2))**(1/2) ## normalizacao de um vetor, razao do vetor pelo modulo do vetor, raiz da soma quadrada dos vetores\nresultado = sepallength/soma\nprint(resultado)",
+        "detail": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "documentation": {}
+    },
+    {
+        "label": "sepallength",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "description": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "peekOfCode": "sepallength = np.genfromtxt(url, delimiter=',', dtype='float', usecols=[0])\nsoma = (sum(sepallength**2))**(1/2) ## normalizacao de um vetor, razao do vetor pelo modulo do vetor, raiz da soma quadrada dos vetores\nresultado = sepallength/soma\nprint(resultado)",
+        "detail": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "documentation": {}
+    },
+    {
+        "label": "soma",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "description": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "peekOfCode": "soma = (sum(sepallength**2))**(1/2) ## normalizacao de um vetor, razao do vetor pelo modulo do vetor, raiz da soma quadrada dos vetores\nresultado = sepallength/soma\nprint(resultado)",
+        "detail": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "documentation": {}
+    },
+    {
+        "label": "resultado",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "description": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "peekOfCode": "resultado = sepallength/soma\nprint(resultado)",
+        "detail": "Scripts Python wtz.F01_ex19_normalizar_array_diminuir_escala",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "description": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "peekOfCode": "def y(x):\n    return (np.exp(-x / 10)) * (np.sin(math.pi * x))\ndef z(x):\n    return x * np.exp(-x / 3)\n# y_1 = np.vectorize(y)\n# z_1 = np.vectorize(z)\n#intervalo_escala = np.linspace(-5.0, 5.0) # para um intervalo de 50 numeros\nintervalo_escala = np.arange(0, 10, 0.001) # cria um array de x = {narray: (10000,)} sendo esses 10000 pontos\ny_de_x = y(intervalo_escala)\nz_de_x = z(intervalo_escala)",
+        "detail": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "z",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "description": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "peekOfCode": "def z(x):\n    return x * np.exp(-x / 3)\n# y_1 = np.vectorize(y)\n# z_1 = np.vectorize(z)\n#intervalo_escala = np.linspace(-5.0, 5.0) # para um intervalo de 50 numeros\nintervalo_escala = np.arange(0, 10, 0.001) # cria um array de x = {narray: (10000,)} sendo esses 10000 pontos\ny_de_x = y(intervalo_escala)\nz_de_x = z(intervalo_escala)\nplt.plot(intervalo_escala, z_de_x)\nplt.title(\"z = x * e^(-x/3)\")",
+        "detail": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "#intervalo_escala",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "description": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "peekOfCode": "#intervalo_escala = np.linspace(-5.0, 5.0) # para um intervalo de 50 numeros\nintervalo_escala = np.arange(0, 10, 0.001) # cria um array de x = {narray: (10000,)} sendo esses 10000 pontos\ny_de_x = y(intervalo_escala)\nz_de_x = z(intervalo_escala)\nplt.plot(intervalo_escala, z_de_x)\nplt.title(\"z = x * e^(-x/3)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()\nplt.plot(intervalo_escala, y_de_x)\nplt.title(\"y = e^(-x/10) * sin(pi*x)\")",
+        "detail": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "intervalo_escala",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "description": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "peekOfCode": "intervalo_escala = np.arange(0, 10, 0.001) # cria um array de x = {narray: (10000,)} sendo esses 10000 pontos\ny_de_x = y(intervalo_escala)\nz_de_x = z(intervalo_escala)\nplt.plot(intervalo_escala, z_de_x)\nplt.title(\"z = x * e^(-x/3)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()\nplt.plot(intervalo_escala, y_de_x)\nplt.title(\"y = e^(-x/10) * sin(pi*x)\")\nplt.xlabel(\"Intervalo [0 a 10]\")",
+        "detail": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "y_de_x",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "description": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "peekOfCode": "y_de_x = y(intervalo_escala)\nz_de_x = z(intervalo_escala)\nplt.plot(intervalo_escala, z_de_x)\nplt.title(\"z = x * e^(-x/3)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()\nplt.plot(intervalo_escala, y_de_x)\nplt.title(\"y = e^(-x/10) * sin(pi*x)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()",
+        "detail": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "z_de_x",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "description": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "peekOfCode": "z_de_x = z(intervalo_escala)\nplt.plot(intervalo_escala, z_de_x)\nplt.title(\"z = x * e^(-x/3)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()\nplt.plot(intervalo_escala, y_de_x)\nplt.title(\"y = e^(-x/10) * sin(pi*x)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()",
+        "detail": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "plt.title(\"z",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "description": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "peekOfCode": "plt.title(\"z = x * e^(-x/3)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()\nplt.plot(intervalo_escala, y_de_x)\nplt.title(\"y = e^(-x/10) * sin(pi*x)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()",
+        "detail": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "plt.title(\"y",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "description": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "peekOfCode": "plt.title(\"y = e^(-x/10) * sin(pi*x)\")\nplt.xlabel(\"Intervalo [0 a 10]\")\nplt.show()",
+        "detail": "Scripts Python wtz.F01_ex20_matplot_grafico_de_funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "numero",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex3",
+        "description": "Scripts Python wtz.F01_ex3",
+        "peekOfCode": "def numero(n):\n  fib = np.arange(1, n+1)\n  for i in range(n):\n    if i <= 1 :\n      fib[i] = i\n    else:\n      fib[i] = fib[i-1]+fib[i-2]\n  return fib\nprint(numero(10))",
+        "detail": "Scripts Python wtz.F01_ex3",
+        "documentation": {}
+    },
+    {
+        "label": "inseri_elementos",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex4",
+        "description": "Scripts Python wtz.F01_ex4",
+        "peekOfCode": "def inseri_elementos(grupo, element):\n    if len(grupo) == 0:\n        grupo.append(element)\n        return grupo\n    else:\n        for i in range(len(grupo)):\n            if grupo[i] == element:\n                print('já tem o elemento:\\n{}'.format(grupo[i]))\n                break\n        if grupo[i] != element:",
+        "detail": "Scripts Python wtz.F01_ex4",
+        "documentation": {}
+    },
+    {
+        "label": "lista",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_ex4",
+        "description": "Scripts Python wtz.F01_ex4",
+        "peekOfCode": "lista = []\ndef inseri_elementos(grupo, element):\n    if len(grupo) == 0:\n        grupo.append(element)\n        return grupo\n    else:\n        for i in range(len(grupo)):\n            if grupo[i] == element:\n                print('já tem o elemento:\\n{}'.format(grupo[i]))\n                break",
+        "detail": "Scripts Python wtz.F01_ex4",
+        "documentation": {}
+    },
+    {
+        "label": "recebe",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex5",
+        "description": "Scripts Python wtz.F01_ex5",
+        "peekOfCode": "def recebe(lista):\n  dicionario = dict()\n  for i in lista:\n    if i not in dicionario:\n      dicionario[i] = 1\n    else:\n      dicionario[i] += 1\n  return  dicionario\nlista_enviada =[ 4,'a','z', 4, 2, 4, 'f']\nprint(recebe(lista_enviada))",
+        "detail": "Scripts Python wtz.F01_ex5",
+        "documentation": {}
+    },
+    {
+        "label": "recebe_listas",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex6",
+        "description": "Scripts Python wtz.F01_ex6",
+        "peekOfCode": "def recebe_listas(lista1,lista2):\n    grupo = []\n    for i in range(len(lista1)):\n        temporario = lista1[i], lista2[i]\n        grupo.append(temporario)\n    return tuple(grupo)\nlista_1 =[4,3,6,2]\nlista_2 =[2,4,5,1]\nprint(recebe_listas(lista_1,lista_2))",
+        "detail": "Scripts Python wtz.F01_ex6",
+        "documentation": {}
+    },
+    {
+        "label": "recebe_frase",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_ex7",
+        "description": "Scripts Python wtz.F01_ex7",
+        "peekOfCode": "def recebe_frase(frase_recebida):\n    frase_recebida = re.findall(r'[^,.\\s]\\w+', frase_recebida)\n    print(frase_recebida)\n    palavras_maiusculas = []\n    for i in frase_recebida:\n        if 64 < ord(i[0]) < 91:\n            palavras_maiusculas.append(i)\n            print('palavra maiuscula encontrada:\\n {}'.format(i))\n    print('Frase recebida:\\n {}'.format(frase_recebida))\n    print('Palavras maiusculas encontradas:')",
+        "detail": "Scripts Python wtz.F01_ex7",
+        "documentation": {}
+    },
+    {
+        "label": "tradut",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_x08",
+        "description": "Scripts Python wtz.F01_x08",
+        "peekOfCode": "def tradut(nome):\n    letra = re.findall(r'.',nome)\n    print(letra)\n    for i in range(len(letra)):\n        v = ord(nome[i])\n        if v==65 or v==97 or v==131 or v==132 or v==133 or v==134 or v==142 or v==143 or v==181 or v==183 or v==192 or v==198 or v==199:\n            letra[i] = 'ka'\n        elif v==66 or v==98:\n            letra[i] = 'tu'\n        elif v==67 or v==99 or v==128 or v==135:",
+        "detail": "Scripts Python wtz.F01_x08",
+        "documentation": {}
+    },
+    {
+        "label": "tradutor",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_x08_com_dicionario",
+        "description": "Scripts Python wtz.F01_x08_com_dicionario",
+        "peekOfCode": "def tradutor(nome):\n    letra = re.findall(r'.', nome)\n    traduzido = []\n    for i in range(len(letra)):\n        traduzido.append(traduz_palavra[ord(letra[i])])\n    traduzido = (''.join(traduzido))\n    return traduzido\n#nao pode haver espaco, ele n reconhece\nprint(tradutor('lutar'))",
+        "detail": "Scripts Python wtz.F01_x08_com_dicionario",
+        "documentation": {}
+    },
+    {
+        "label": "traduz_palavra",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x08_com_dicionario",
+        "description": "Scripts Python wtz.F01_x08_com_dicionario",
+        "peekOfCode": "traduz_palavra = {\n    65: 'ka', 97: 'ka', 131: 'ka', 132: 'ka', 133: 'ka', 134: 'ka', 142: 'ka', 143: 'ka', 181: 'ka', 183: 'ka',\n    192: 'ka', 198: 'ka', 199: 'ka',\n    66: 'tu', 98: 'tu',\n    67: 'mi', 99: 'mi', 128: 'mi', 135: 'mi',\n    68: 'te', 100: 'te',\n    69: 'ku', 101: 'ku',\n    70: 'lu', 102: 'lu',\n    71: 'ji', 103: 'ji',\n    72: 'ri', 104: 'ri',",
+        "detail": "Scripts Python wtz.F01_x08_com_dicionario",
+        "documentation": {}
+    },
+    {
+        "label": "maius",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "description": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "peekOfCode": "maius = list(string.ascii_uppercase) #gera uma lista com todas letras maiusculas\nminus = list(string.ascii_lowercase) #gera uma lista com todas letras minusculas\nsenha = []\noutros_caracteres = random.sample(minus,6)\nLetras_maisculas = random.sample(maius, 2)\ndigito = random.choice(string.digits) # digito entre eses 0123456789\nsimbolo = random.choice(string.punctuation) # simbolos\nsenha = Letras_maisculas+outros_caracteres\nsenha.append(digito)\nsenha.append(simbolo)",
+        "detail": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "documentation": {}
+    },
+    {
+        "label": "minus",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "description": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "peekOfCode": "minus = list(string.ascii_lowercase) #gera uma lista com todas letras minusculas\nsenha = []\noutros_caracteres = random.sample(minus,6)\nLetras_maisculas = random.sample(maius, 2)\ndigito = random.choice(string.digits) # digito entre eses 0123456789\nsimbolo = random.choice(string.punctuation) # simbolos\nsenha = Letras_maisculas+outros_caracteres\nsenha.append(digito)\nsenha.append(simbolo)\nrandom.shuffle(senha)",
+        "detail": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "documentation": {}
+    },
+    {
+        "label": "senha",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "description": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "peekOfCode": "senha = []\noutros_caracteres = random.sample(minus,6)\nLetras_maisculas = random.sample(maius, 2)\ndigito = random.choice(string.digits) # digito entre eses 0123456789\nsimbolo = random.choice(string.punctuation) # simbolos\nsenha = Letras_maisculas+outros_caracteres\nsenha.append(digito)\nsenha.append(simbolo)\nrandom.shuffle(senha)\nprint(''.join(senha))",
+        "detail": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "documentation": {}
+    },
+    {
+        "label": "outros_caracteres",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "description": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "peekOfCode": "outros_caracteres = random.sample(minus,6)\nLetras_maisculas = random.sample(maius, 2)\ndigito = random.choice(string.digits) # digito entre eses 0123456789\nsimbolo = random.choice(string.punctuation) # simbolos\nsenha = Letras_maisculas+outros_caracteres\nsenha.append(digito)\nsenha.append(simbolo)\nrandom.shuffle(senha)\nprint(''.join(senha))\n# def geradordesenha():",
+        "detail": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "documentation": {}
+    },
+    {
+        "label": "Letras_maisculas",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "description": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "peekOfCode": "Letras_maisculas = random.sample(maius, 2)\ndigito = random.choice(string.digits) # digito entre eses 0123456789\nsimbolo = random.choice(string.punctuation) # simbolos\nsenha = Letras_maisculas+outros_caracteres\nsenha.append(digito)\nsenha.append(simbolo)\nrandom.shuffle(senha)\nprint(''.join(senha))\n# def geradordesenha():\n#     #random.randrange(11) #gera numeros inteiro de 0 a 10",
+        "detail": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "documentation": {}
+    },
+    {
+        "label": "digito",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "description": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "peekOfCode": "digito = random.choice(string.digits) # digito entre eses 0123456789\nsimbolo = random.choice(string.punctuation) # simbolos\nsenha = Letras_maisculas+outros_caracteres\nsenha.append(digito)\nsenha.append(simbolo)\nrandom.shuffle(senha)\nprint(''.join(senha))\n# def geradordesenha():\n#     #random.randrange(11) #gera numeros inteiro de 0 a 10\n#     # random.randrange(0,10,2) # gera numeros inteiros entre 0 e 9 que são divisiveis por 2",
+        "detail": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "documentation": {}
+    },
+    {
+        "label": "simbolo",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "description": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "peekOfCode": "simbolo = random.choice(string.punctuation) # simbolos\nsenha = Letras_maisculas+outros_caracteres\nsenha.append(digito)\nsenha.append(simbolo)\nrandom.shuffle(senha)\nprint(''.join(senha))\n# def geradordesenha():\n#     #random.randrange(11) #gera numeros inteiro de 0 a 10\n#     # random.randrange(0,10,2) # gera numeros inteiros entre 0 e 9 que são divisiveis por 2\n#     #random.random() # gera numeros pseudo-aleatorios de 0 a 1",
+        "detail": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "documentation": {}
+    },
+    {
+        "label": "senha",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "description": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "peekOfCode": "senha = Letras_maisculas+outros_caracteres\nsenha.append(digito)\nsenha.append(simbolo)\nrandom.shuffle(senha)\nprint(''.join(senha))\n# def geradordesenha():\n#     #random.randrange(11) #gera numeros inteiro de 0 a 10\n#     # random.randrange(0,10,2) # gera numeros inteiros entre 0 e 9 que são divisiveis por 2\n#     #random.random() # gera numeros pseudo-aleatorios de 0 a 1\n#     #random.randint(0,10) # gera numeros inteiros de 0 até 10",
+        "detail": "Scripts Python wtz.F01_x14_gerando_senha_aleatoria",
+        "documentation": {}
+    },
+    {
+        "label": "cria_listas_a_partir_de_array",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "description": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "peekOfCode": "def cria_listas_a_partir_de_array(recebe):\n    if recebe[0][0] > recebe[1][0]:\n        lista_coluna.append(recebe[0][0])\n    else:\n        lista_coluna.append(recebe[1][0])\n    if recebe[0][1] > recebe[1][1]:\n        lista_coluna.append(recebe[0][1])\n    else:\n        lista_coluna.append(recebe[1][1])\n    if recebe[0][0] > recebe[0][1]:",
+        "detail": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "documentation": {}
+    },
+    {
+        "label": "lista_coluna",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "description": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "peekOfCode": "lista_coluna = []\nlista_linha = []\n# array_1 = np.identity(2, int)\n# array_2 = np.full((2,2), 0.3)\narray_3 = [[1,2],[3,4]]\ndef cria_listas_a_partir_de_array(recebe):\n    if recebe[0][0] > recebe[1][0]:\n        lista_coluna.append(recebe[0][0])\n    else:\n        lista_coluna.append(recebe[1][0])",
+        "detail": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "documentation": {}
+    },
+    {
+        "label": "lista_linha",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "description": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "peekOfCode": "lista_linha = []\n# array_1 = np.identity(2, int)\n# array_2 = np.full((2,2), 0.3)\narray_3 = [[1,2],[3,4]]\ndef cria_listas_a_partir_de_array(recebe):\n    if recebe[0][0] > recebe[1][0]:\n        lista_coluna.append(recebe[0][0])\n    else:\n        lista_coluna.append(recebe[1][0])\n    if recebe[0][1] > recebe[1][1]:",
+        "detail": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "documentation": {}
+    },
+    {
+        "label": "array_3",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "description": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "peekOfCode": "array_3 = [[1,2],[3,4]]\ndef cria_listas_a_partir_de_array(recebe):\n    if recebe[0][0] > recebe[1][0]:\n        lista_coluna.append(recebe[0][0])\n    else:\n        lista_coluna.append(recebe[1][0])\n    if recebe[0][1] > recebe[1][1]:\n        lista_coluna.append(recebe[0][1])\n    else:\n        lista_coluna.append(recebe[1][1])",
+        "detail": "Scripts Python wtz.F01_x15_criando_array_matrizes",
+        "documentation": {}
+    },
+    {
+        "label": "fib",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.Fibonaci_Com_gerador",
+        "description": "Scripts Python wtz.Fibonaci_Com_gerador",
+        "peekOfCode": "def fib():\n    a, b = 0, 1\n    while True:\n        yield a\n        a, b = b, a + b\nfib_gen = fib()\nprint(next(fib_gen))",
+        "detail": "Scripts Python wtz.Fibonaci_Com_gerador",
+        "documentation": {}
+    },
+    {
+        "label": "fib_gen",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Fibonaci_Com_gerador",
+        "description": "Scripts Python wtz.Fibonaci_Com_gerador",
+        "peekOfCode": "fib_gen = fib()\nprint(next(fib_gen))",
+        "detail": "Scripts Python wtz.Fibonaci_Com_gerador",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.Googol",
+        "description": "Scripts Python wtz.Googol",
+        "peekOfCode": "def f(x):\n    return (math.exp(x)) / ((math.exp(x)) + 1)\np = 0\nv = 0\nd = 0\nfor i in range(0, 10):\n    print('\\njogada {}'.format(i + 1))\n    z = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)",
+        "detail": "Scripts Python wtz.Googol",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Googol",
+        "description": "Scripts Python wtz.Googol",
+        "peekOfCode": "p = 0\nv = 0\nd = 0\nfor i in range(0, 10):\n    print('\\njogada {}'.format(i + 1))\n    z = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)\n    if z >= f(mao1):\n        # print('numero gerado com aleatoriedade verdadeira {}'.format(z))",
+        "detail": "Scripts Python wtz.Googol",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Googol",
+        "description": "Scripts Python wtz.Googol",
+        "peekOfCode": "v = 0\nd = 0\nfor i in range(0, 10):\n    print('\\njogada {}'.format(i + 1))\n    z = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)\n    if z >= f(mao1):\n        # print('numero gerado com aleatoriedade verdadeira {}'.format(z))\n        print('segunda mão é maior baseado no número {}'.format(z))",
+        "detail": "Scripts Python wtz.Googol",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Googol",
+        "description": "Scripts Python wtz.Googol",
+        "peekOfCode": "d = 0\nfor i in range(0, 10):\n    print('\\njogada {}'.format(i + 1))\n    z = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)\n    if z >= f(mao1):\n        # print('numero gerado com aleatoriedade verdadeira {}'.format(z))\n        print('segunda mão é maior baseado no número {}'.format(z))\n        print('primeira mão é {}, segunda mao é {}'.format(f(mao1), f(mao2)))",
+        "detail": "Scripts Python wtz.Googol",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Googol",
+        "description": "Scripts Python wtz.Googol",
+        "peekOfCode": "p = ((v/10)*100)\nprint('Derrotas {} e vitórias {}'.format(d,v))\n#ptg = (v * 0.10  ) * 100\nprint(\"Porcentagem é {}%\".format(p))",
+        "detail": "Scripts Python wtz.Googol",
+        "documentation": {}
+    },
+    {
+        "label": "#ptg",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Googol",
+        "description": "Scripts Python wtz.Googol",
+        "peekOfCode": "#ptg = (v * 0.10  ) * 100\nprint(\"Porcentagem é {}%\".format(p))",
+        "detail": "Scripts Python wtz.Googol",
+        "documentation": {}
+    },
+    {
+        "label": "nome",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.identifica",
+        "description": "Scripts Python wtz.identifica",
+        "peekOfCode": "nome = input('qual é o seu nome? ')\nidade = input('qual é a sua idade? ')\npeso = input('qual é o seu peso? ')\nprint('nome:',nome, '/idade:',idade, '/peso:',peso)",
+        "detail": "Scripts Python wtz.identifica",
+        "documentation": {}
+    },
+    {
+        "label": "idade",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.identifica",
+        "description": "Scripts Python wtz.identifica",
+        "peekOfCode": "idade = input('qual é a sua idade? ')\npeso = input('qual é o seu peso? ')\nprint('nome:',nome, '/idade:',idade, '/peso:',peso)",
+        "detail": "Scripts Python wtz.identifica",
+        "documentation": {}
+    },
+    {
+        "label": "peso",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.identifica",
+        "description": "Scripts Python wtz.identifica",
+        "peekOfCode": "peso = input('qual é o seu peso? ')\nprint('nome:',nome, '/idade:',idade, '/peso:',peso)",
+        "detail": "Scripts Python wtz.identifica",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.join_for_split_string",
+        "description": "Scripts Python wtz.join_for_split_string",
+        "peekOfCode": "s = 'carro eragrande'\nx = \"-\".join([c for c in s if c.isalpha()])\nz = \"-\".join(s.split(\" \"))\nprint(x)\nprint(z)",
+        "detail": "Scripts Python wtz.join_for_split_string",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.join_for_split_string",
+        "description": "Scripts Python wtz.join_for_split_string",
+        "peekOfCode": "x = \"-\".join([c for c in s if c.isalpha()])\nz = \"-\".join(s.split(\" \"))\nprint(x)\nprint(z)",
+        "detail": "Scripts Python wtz.join_for_split_string",
+        "documentation": {}
+    },
+    {
+        "label": "z",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.join_for_split_string",
+        "description": "Scripts Python wtz.join_for_split_string",
+        "peekOfCode": "z = \"-\".join(s.split(\" \"))\nprint(x)\nprint(z)",
+        "detail": "Scripts Python wtz.join_for_split_string",
+        "documentation": {}
+    },
+    {
+        "label": "dados",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Leitura_dataset",
+        "description": "Scripts Python wtz.Leitura_dataset",
+        "peekOfCode": "dados = open(\"Base_dados_treinar\", \"rb\")\nprint(dados)",
+        "detail": "Scripts Python wtz.Leitura_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Operacoes_Zip_e_for_em_1_linha",
+        "description": "Scripts Python wtz.Operacoes_Zip_e_for_em_1_linha",
+        "peekOfCode": "x = np.array([3, 6, 7, 2]) # array do numpy\n#ou\n# x = [3, 6, 7, 2]  #lista do python\nprint(x)\nprint(x[1:])\nprint(x[:-1])\na = [x-y for x,y in zip(x[1:],x[:-1])]\nprint(a)",
+        "detail": "Scripts Python wtz.Operacoes_Zip_e_for_em_1_linha",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Operacoes_Zip_e_for_em_1_linha",
+        "description": "Scripts Python wtz.Operacoes_Zip_e_for_em_1_linha",
+        "peekOfCode": "a = [x-y for x,y in zip(x[1:],x[:-1])]\nprint(a)",
+        "detail": "Scripts Python wtz.Operacoes_Zip_e_for_em_1_linha",
+        "documentation": {}
+    },
+    {
+        "label": "nota",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.operadores",
+        "description": "Scripts Python wtz.operadores",
+        "peekOfCode": "nota = 8\nmédia = 7\naprovado = nota > média\nprint(aprovado)",
+        "detail": "Scripts Python wtz.operadores",
+        "documentation": {}
+    },
+    {
+        "label": "média",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.operadores",
+        "description": "Scripts Python wtz.operadores",
+        "peekOfCode": "média = 7\naprovado = nota > média\nprint(aprovado)",
+        "detail": "Scripts Python wtz.operadores",
+        "documentation": {}
+    },
+    {
+        "label": "aprovado",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.operadores",
+        "description": "Scripts Python wtz.operadores",
+        "peekOfCode": "aprovado = nota > média\nprint(aprovado)",
+        "detail": "Scripts Python wtz.operadores",
+        "documentation": {}
+    },
+    {
+        "label": "newPessoa",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "description": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "peekOfCode": "def newPessoa(nome, nascimento):\n    inst = {} # a nova instância\n    inst['nome'] = nome\n    inst['nascimento'] = nascimento\n    return inst\ndef newClass(nome, atributos):\n    cls = {} # cria o dicionário vazio para a classe\n    for k, v in atributos.items(): # atribui os atributos (métodos e\n        # atributos de classe)\n        cls[k] = v",
+        "detail": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "documentation": {}
+    },
+    {
+        "label": "newClass",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "description": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "peekOfCode": "def newClass(nome, atributos):\n    cls = {} # cria o dicionário vazio para a classe\n    for k, v in atributos.items(): # atribui os atributos (métodos e\n        # atributos de classe)\n        cls[k] = v\n    return cls\ndef idade(hoje):\n    hd, hm, ha = hoje\n    nd, nm, na = inst['nascimento']\n    idade = ha - na",
+        "detail": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "documentation": {}
+    },
+    {
+        "label": "idade",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "description": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "peekOfCode": "def idade(hoje):\n    hd, hm, ha = hoje\n    nd, nm, na = inst['nascimento']\n    idade = ha - na\n    return idade\nPessoa = newClass('Pessoa', {'newPessoa':newPessoa, 'idade':idade})\nhank = Pessoa['newPessoa']('Hank Moody', (8, 11, 1967))\nprint(hank)",
+        "detail": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "documentation": {}
+    },
+    {
+        "label": "Pessoa",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "description": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "peekOfCode": "Pessoa = {}\ndef newPessoa(nome, nascimento):\n    inst = {} # a nova instância\n    inst['nome'] = nome\n    inst['nascimento'] = nascimento\n    return inst\ndef newClass(nome, atributos):\n    cls = {} # cria o dicionário vazio para a classe\n    for k, v in atributos.items(): # atribui os atributos (métodos e\n        # atributos de classe)",
+        "detail": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "documentation": {}
+    },
+    {
+        "label": "Pessoa",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "description": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "peekOfCode": "Pessoa = newClass('Pessoa', {'newPessoa':newPessoa, 'idade':idade})\nhank = Pessoa['newPessoa']('Hank Moody', (8, 11, 1967))\nprint(hank)",
+        "detail": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "documentation": {}
+    },
+    {
+        "label": "hank",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "description": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "peekOfCode": "hank = Pessoa['newPessoa']('Hank Moody', (8, 11, 1967))\nprint(hank)",
+        "detail": "Scripts Python wtz.Outra_forma_de_chamar_funcao_e_classes",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Plotar_grafico",
+        "description": "Scripts Python wtz.Plotar_grafico",
+        "peekOfCode": "x = np.linspace(0, 3, 20)\ny = np.linspace(0, 9, 20)\nplt.plot(x, y)       # plotagem da linha\nplt.plot(x, y, 'o')  # plotagem dos pontos\nplt.show()           # <-- mostra o gráfico\nimport matplotlib.pyplot as plt\nimage = np.random.rand(30, 30)\nplt.imshow(image, cmap=plt.cm.jet)\nplt.colorbar()\nplt.show()",
+        "detail": "Scripts Python wtz.Plotar_grafico",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Plotar_grafico",
+        "description": "Scripts Python wtz.Plotar_grafico",
+        "peekOfCode": "y = np.linspace(0, 9, 20)\nplt.plot(x, y)       # plotagem da linha\nplt.plot(x, y, 'o')  # plotagem dos pontos\nplt.show()           # <-- mostra o gráfico\nimport matplotlib.pyplot as plt\nimage = np.random.rand(30, 30)\nplt.imshow(image, cmap=plt.cm.jet)\nplt.colorbar()\nplt.show()\nimport numpy as np",
+        "detail": "Scripts Python wtz.Plotar_grafico",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Plotar_grafico",
+        "description": "Scripts Python wtz.Plotar_grafico",
+        "peekOfCode": "image = np.random.rand(30, 30)\nplt.imshow(image, cmap=plt.cm.jet)\nplt.colorbar()\nplt.show()\nimport numpy as np\nfrom mayavi import mlab\ngrafico = mlab.surf(np.random.rand(30, 30))\nmlab.colorbar(grafico, orientation='horizontal')\nmlab.axes(grafico)",
+        "detail": "Scripts Python wtz.Plotar_grafico",
+        "documentation": {}
+    },
+    {
+        "label": "grafico",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Plotar_grafico",
+        "description": "Scripts Python wtz.Plotar_grafico",
+        "peekOfCode": "grafico = mlab.surf(np.random.rand(30, 30))\nmlab.colorbar(grafico, orientation='horizontal')\nmlab.axes(grafico)",
+        "detail": "Scripts Python wtz.Plotar_grafico",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.programa",
+        "description": "Scripts Python wtz.programa",
+        "peekOfCode": "def f(x):\n    return (math.exp(x)) / ((math.exp(x)) + 1)\nv = 0\nd = 0\nfor i in range(0, 1000):\n    #print('\\njogadas {}'.format(i + 1))\n    z = getmf()\n    w = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)",
+        "detail": "Scripts Python wtz.programa",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.programa",
+        "description": "Scripts Python wtz.programa",
+        "peekOfCode": "v = 0\nd = 0\nfor i in range(0, 1000):\n    #print('\\njogadas {}'.format(i + 1))\n    z = getmf()\n    w = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)\n    if z >= f(mao1):\n        # print('numero gerado com aleatoriedade verdadeira {}'.format(z))",
+        "detail": "Scripts Python wtz.programa",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.programa",
+        "description": "Scripts Python wtz.programa",
+        "peekOfCode": "d = 0\nfor i in range(0, 1000):\n    #print('\\njogadas {}'.format(i + 1))\n    z = getmf()\n    w = random.uniform(0, 1)\n    mao1 = random.uniform(0, 1)\n    mao2 = random.uniform(0, 1)\n    if z >= f(mao1):\n        # print('numero gerado com aleatoriedade verdadeira {}'.format(z))\n        #print('segunda mão é maior baseado no número {}'.format(z))",
+        "detail": "Scripts Python wtz.programa",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.programa",
+        "description": "Scripts Python wtz.programa",
+        "peekOfCode": "p = (100*v/1000)\nprint(\"\\nJogadas {}\".format(i+1))\nprint('\\nDerrotas {} e vitórias {}'.format(d,v))\nprint(\"\\nPorcentagem de vitórias é {}%\".format(p))",
+        "detail": "Scripts Python wtz.programa",
+        "documentation": {}
+    },
+    {
+        "label": "GetAnysizeArray",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.QRNG",
+        "description": "Scripts Python wtz.QRNG",
+        "peekOfCode": "def GetAnysizeArray(dim):\n   if dim <= 1024:\n       little = GetRandomArray(dim)\n       return little\n   else:\n       large = []\n       m = dim\n       while m > 1024:\n           large.extend(GetRandomArray(1024))\n           m = m - 1024",
+        "detail": "Scripts Python wtz.QRNG",
+        "documentation": {}
+    },
+    {
+        "label": "GetRandomArray",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.QRNG",
+        "description": "Scripts Python wtz.QRNG",
+        "peekOfCode": "def GetRandomArray(dim):\n    d = str(dim)\n    url1 = 'https://qrng.anu.edu.au/API/jsonI.php?length='\n    url2 = '&type=uint16'\n    url = url1+d+url2\n    page = urllib.request.urlopen(url, timeout=5)\n    aux = page.read()\n    data = json.loads(aux.decode('utf-8'))\n    num = data.get(\"data\", \"none\")\n    return num",
+        "detail": "Scripts Python wtz.QRNG",
+        "documentation": {}
+    },
+    {
+        "label": "QRNG",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.QRNG",
+        "description": "Scripts Python wtz.QRNG",
+        "peekOfCode": "def QRNG():\n    a = float(GetRandomArray(1)[0])\n    b = float(a/65535)\n    return b\n#------------------------------------------------------------------------------------\ndef QRNGtest2(d):\n    x = GetAnysizeArray(d)\n    y = GetAnysizeArray(d)\n    return plotScatter(x, y)\nQRNGtest2(5000)",
+        "detail": "Scripts Python wtz.QRNG",
+        "documentation": {}
+    },
+    {
+        "label": "QRNGtest2",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.QRNG",
+        "description": "Scripts Python wtz.QRNG",
+        "peekOfCode": "def QRNGtest2(d):\n    x = GetAnysizeArray(d)\n    y = GetAnysizeArray(d)\n    return plotScatter(x, y)\nQRNGtest2(5000)",
+        "detail": "Scripts Python wtz.QRNG",
+        "documentation": {}
+    },
+    {
+        "label": "frutas",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Revisao",
+        "description": "Scripts Python wtz.Revisao",
+        "peekOfCode": "frutas = ['banana', 'uva', 'berga']\nfor i,fruta in enumerate(frutas[1:]):\n    # print(fruta)\n    print(fruta[0:-1].decode())\nm = np.random.randint([(4,2),(3,1)])\n# print(m)",
+        "detail": "Scripts Python wtz.Revisao",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Revisao",
+        "description": "Scripts Python wtz.Revisao",
+        "peekOfCode": "m = np.random.randint([(4,2),(3,1)])\n# print(m)",
+        "detail": "Scripts Python wtz.Revisao",
+        "documentation": {}
+    },
+    {
+        "label": "MyRobot",
+        "kind": 6,
+        "importPath": "Scripts Python wtz.Robo_de_dois_elos",
+        "description": "Scripts Python wtz.Robo_de_dois_elos",
+        "peekOfCode": "class MyRobot(Robot):\n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)\n    def pos(self, l1, l2, theta1, theta2):\n        self.l1 = l1\n        self.l2 = l2\n        self.theta1 = theta1\n        self.theta2 = theta2\n        self.p = np.array([(self.l1 * np.cos(self.theta1) + self.l2 * np.cos(self.theta1 + self.theta2)), \\\n                      (self.l1 * np.sin(self.theta1) + self.l2 * np.sin(self.theta1 + self.theta2))])",
+        "detail": "Scripts Python wtz.Robo_de_dois_elos",
+        "documentation": {}
+    },
+    {
+        "label": "GetAnysizeArray",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.rodar",
+        "description": "Scripts Python wtz.rodar",
+        "peekOfCode": "def GetAnysizeArray(dim):\n   if dim <= 1024:\n       little = GetRandomArray(dim)\n       return little\n   else:\n       large = []\n       m = dim\n       while m > 1024:\n           large.extend(GetRandomArray(1024))\n           m = m - 1024",
+        "detail": "Scripts Python wtz.rodar",
+        "documentation": {}
+    },
+    {
+        "label": "GetRandomArray",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.rodar",
+        "description": "Scripts Python wtz.rodar",
+        "peekOfCode": "def GetRandomArray(dim):\n    d=str(dim)\n    url1 = 'https://qrng.anu.edu.au/API/jsonI.php?length='\n    url2 = '&type=uint16'\n    url = url1+d+url2\n    page = urllib.request.urlopen(url, timeout=5)\n    aux = page.read()\n    data = json.loads(aux.decode('utf-8'))\n    num = data.get(\"data\", \"none\")\n    return num",
+        "detail": "Scripts Python wtz.rodar",
+        "documentation": {}
+    },
+    {
+        "label": "getmf",
+        "kind": 2,
+        "importPath": "Scripts Python wtz.rodar",
+        "description": "Scripts Python wtz.rodar",
+        "peekOfCode": "def getmf():\n    a=float(GetRandomArray(1)[0])\n    z=float(a/65535)\n    return z\n#------------------------------------------------------------------------------------\n#def QRNGtest2(d):\n #   x = GetAnysizeArray(d)\n   # y = GetAnysizeArray(d)\n  #  return plotScatter(x,y)\n#QRNGtest2(5000)",
+        "detail": "Scripts Python wtz.rodar",
+        "documentation": {}
+    },
+    {
+        "label": "primeiro",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.soma",
+        "description": "Scripts Python wtz.soma",
+        "peekOfCode": "primeiro = input('Primeiro número')\nsegundo = input('Segundo número')\nprint(primeiro)",
+        "detail": "Scripts Python wtz.soma",
+        "documentation": {}
+    },
+    {
+        "label": "segundo",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.soma",
+        "description": "Scripts Python wtz.soma",
+        "peekOfCode": "segundo = input('Segundo número')\nprint(primeiro)",
+        "detail": "Scripts Python wtz.soma",
+        "documentation": {}
+    },
+    {
+        "label": "Carro",
+        "kind": 6,
+        "importPath": "Scripts Python wtz.Teste",
+        "description": "Scripts Python wtz.Teste",
+        "peekOfCode": "class Carro():\n    def __init__(self,**args):\n    def test1(self, aqui):\n        self.aqui = aqui\n        return self.aqui\n    def test2(self, sera):\n        self.sera = sera + self.aqui\n        return self.sera\nvalor = Carro()\nt1 = Carro().test1(3)",
+        "detail": "Scripts Python wtz.Teste",
+        "documentation": {}
+    },
+    {
+        "label": "valor",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Teste",
+        "description": "Scripts Python wtz.Teste",
+        "peekOfCode": "valor = Carro()\nt1 = Carro().test1(3)\nprint(Carro().test2(2))",
+        "detail": "Scripts Python wtz.Teste",
+        "documentation": {}
+    },
+    {
+        "label": "t1",
+        "kind": 5,
+        "importPath": "Scripts Python wtz.Teste",
+        "description": "Scripts Python wtz.Teste",
+        "peekOfCode": "t1 = Carro().test1(3)\nprint(Carro().test2(2))",
+        "detail": "Scripts Python wtz.Teste",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "iniciar_metodos",
+        "description": "iniciar_metodos",
+        "peekOfCode": "x = sympy.symbols('x')\nsympy.init_printing(use_unicode=True)\nfrom sympy.functions import exp\nwhile(True):\n    validando = False\n    print(\n        \"\\nInforme os dados necessarios para realizacao dos metodos iterativos, sendo ele a funcao, intervalo [a, b] e sua precisao.\")\n    print(\"\\nExemplo:\", \"(2*ln(x**2))/(sqrt(x)-5*e^(-x))\", \"a:3\",\n        \"b:5\", \"precisao: 0.0005\\n\", sep=\"\\n\")\n    f = (input(\"Digite a sua funcao: \"))",
+        "detail": "iniciar_metodos",
+        "documentation": {}
+    }
+]
