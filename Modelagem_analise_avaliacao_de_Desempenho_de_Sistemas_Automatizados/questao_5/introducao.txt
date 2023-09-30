@@ -1,4 +1,4 @@
-Menor Árvore Geradora (MAG):
+Menor Árvore Geradora (MAG/MST):
 Em teoria dos grafos, uma MAG de um grafo conectado e não direcionado é um subgrafo que é uma árvore e conecta todos os vértices juntos. Uma única rede pode ter muitas árvores geradoras possíveis, mas uma "menor" árvore geradora é aquela com peso mínimo entre todas as árvores geradoras. O peso de uma árvore geradora é a soma de pesos (neste caso, distâncias) de todas as arestas que ela inclui.
 
 Algoritmo de Prim:

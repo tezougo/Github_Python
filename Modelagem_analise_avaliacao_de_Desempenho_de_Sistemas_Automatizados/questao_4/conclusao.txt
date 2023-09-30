@@ -7,8 +7,6 @@ O algoritmo de Dijkstra é um algoritmo usado para encontrar o caminho mais curt
 
 LÓGICA:
 
-ChatGPT
-
 O algoritmo de Dijkstra é um algoritmo usado para encontrar o caminho mais curto entre dois nós em um grafo ponderado. Ele funciona bem em grafos dirigidos ou não dirigidos, desde que os pesos das arestas sejam não negativos. O algoritmo mantém uma lista de nós cujas distâncias do nó de origem são conhecidas e atualiza essas distâncias à medida que explora o grafo.
 
 Aqui está uma explicação passo a passo do algoritmo de Dijkstra:

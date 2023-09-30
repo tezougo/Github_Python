@@ -1,0 +1,32 @@
+Levando em consideração o problema, o objetivo é ter a menor quantidade de cabos utilizando todos os pontos (vértices), tratando-se de uma MSG ou MAG (Menor Arvore Geradora), pois a soma dos pesos (comprimento dos cabos) é a menor possível. Foi utilizado o algortimo de Prim para encontrar a menor quantidade de cabos utilizados, o algoritmo de Prim é um algoritmo guloso que encontra uma árvore geradora mínima para um grafo a partir de um nó arbitrário.
+
+Dijsktra não se encaixa no problema, pois ele encontra o menor caminho entre dois vértices.
+Kruskal não se encaixa no problema, pois ele parte da organização em ordem crescente das arestas, e como não temos a informação dos valores das arestas, não podemos utilizar esse algoritmo.
+
+E = Entrace
+K = Kitchen
+T1 = Terrace
+LR = Living Room
+DR = Dining Room
+T2 = Toilet
+CB = Child Bedroom
+B = Bathroom
+P = Parent Bedroom
+                                         E
+_____________________________________1<     3__________________________________
+| T1   1  |            |      5    5|        |       T2    |3          1      |
+|      /\ |    1       | 5    K   3 |        |    3________|           /\     |
+|         |    /\ LR   |           3|                               B         |
+                       |__3____     |     4                                   |
+                4                   |1<     _____________>1|____    __________|
+|                                                          |1<        3       | 
+|                        4                     4                              |
+|         |                 DR      |    |1<      CB             P            |
+|         |             \/          |    |                3|                  |1<
+|_________|_____2_______1____2______|____|_____2___________|____     ___2_____|
+
+1 = Motion Sensor
+2 = Blind Actuators
+3 = Magnetic Contacts
+4 = Wall-mounted Switches
+5 = In-between Switches

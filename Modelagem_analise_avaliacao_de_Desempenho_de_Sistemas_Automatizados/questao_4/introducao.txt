@@ -1,0 +1,5 @@
+A matriz fornecida representa um grafo ponderado com 6 vértices (A até F). Analisando a matriz e considerando o algoritmo de Dijkstra, podemos determinar o caminho mais curto de A para D.
+
+O caminho mínimo do vértice A para o vértice D é A -> B -> C -> D com um custo total de 11. Isso é evidente pela sequência de pesos nas arestas: A para B (6), B para C (2) e C para D (3), resultando em 6 + 2 + 3 = 11.
+
+A função `shortestpath` do MATLAB é usada para encontrar o caminho mais curto entre dois nós em um grafo ponderado ou não ponderado. P = shortestpath(G, s, t)

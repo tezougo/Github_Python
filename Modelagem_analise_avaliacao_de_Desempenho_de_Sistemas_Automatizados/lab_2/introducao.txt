@@ -1,0 +1,19 @@
+1. **Limitabilidade**:
+   - Uma Rede de Petri é dita limitada se, para cada lugar, existe um número natural finito que é o máximo de fichas que esse lugar pode conter, independentemente das sequências de transições disparadas. Se um lugar não tem um limite superior no número de fichas, a rede é considerada ilimitada.
+
+2. **Segurança**:
+   - Uma Rede de Petri é segura se, em qualquer marcação alcançável, cada lugar contém no máximo uma ficha. Em outras palavras, um lugar nunca pode ter mais de uma ficha ao mesmo tempo.
+
+3. **Conservação**:
+   - Uma Rede de Petri é conservativa se o número total de fichas na rede permanece constante, independentemente das transições disparadas. Isso significa que fichas não são criadas nem destruídas; elas apenas se movem entre os lugares.
+
+4. **Reversibilidade**:
+   - Uma Rede de Petri é reversível se, a partir de qualquer marcação alcançável, é possível retornar à marcação inicial disparando uma sequência de transições.
+
+5. **Vivacidade**:
+   - Uma Rede de Petri é viva se, para qualquer transição e qualquer marcação alcançável, sempre existe uma sequência de transições que leva a uma marcação onde essa transição está habilitada. Em outras palavras, não importa a marcação atual, sempre é possível disparar qualquer transição se continuarmos disparando outras transições.
+
+**Deadlocks**:
+- Um deadlock em uma Rede de Petri ocorre quando chegamos a uma marcação onde nenhuma transição está habilitada, ou seja, não é possível fazer mais nenhum movimento. Em termos práticos, a rede "congela" e não pode evoluir. Deadlocks são indesejáveis em muitos sistemas modelados por Redes de Petri, especialmente em sistemas de computação e manufatura, pois indicam uma situação de impasse onde o sistema não pode continuar sua operação normal.
+
+Espero que isso ajude a esclarecer as propriedades e conceitos das Redes de Petri! Se tiver mais dúvidas ou precisar de mais detalhes, estou à disposição.

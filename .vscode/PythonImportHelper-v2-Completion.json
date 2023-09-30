@@ -54,6 +54,41 @@
         "documentation": {}
     },
     {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "networkx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "networkx",
+        "description": "networkx",
+        "detail": "networkx",
+        "documentation": {}
+    },
+    {
+        "label": "osmnx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "osmnx",
+        "description": "osmnx",
+        "detail": "osmnx",
+        "documentation": {}
+    },
+    {
+        "label": "RedePetri",
+        "importPath": "rede_petri",
+        "description": "rede_petri",
+        "isExtraImport": true,
+        "detail": "rede_petri",
+        "documentation": {}
+    },
+    {
         "label": "sys",
         "kind": 6,
         "isExtraImport": true,
@@ -68,15 +103,6 @@
         "description": "lab_dijkstra",
         "isExtraImport": true,
         "detail": "lab_dijkstra",
-        "documentation": {}
-    },
-    {
-        "label": "networkx",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "networkx",
-        "description": "networkx",
-        "detail": "networkx",
         "documentation": {}
     },
     {
@@ -113,11 +139,11 @@
         "documentation": {}
     },
     {
-        "label": "plot",
-        "importPath": "igraph",
-        "description": "igraph",
+        "label": "PriorityQueue",
+        "importPath": "queue",
+        "description": "queue",
         "isExtraImport": true,
-        "detail": "igraph",
+        "detail": "queue",
         "documentation": {}
     },
     {
@@ -456,6 +482,132 @@
         "documentation": {}
     },
     {
+        "label": "Arvore_alcancabilidade_kruskal",
+        "kind": 6,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "peekOfCode": "class Arvore_alcancabilidade_kruskal:\n    def __init__(self, cidades):\n        # Obtenha o grafo de estradas de Santa Catarina\n        self.G = ox.graph_from_place('Florianópolis, Brazil', network_type='drive')\n        self.cidades = set(cidades)\n        self.grafo_completo = nx.Graph()\n        self.conjuntos = {cidade: {cidade} for cidade in cidades}\n        self.arvore = nx.Graph()\n        self.distancias = {}\n        for cidade1, cidade2 in itertools.combinations(cidades, 2):",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "documentation": {}
+    },
+    {
+        "label": "cidades",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "peekOfCode": "cidades = ['Abdon Batista', 'Abelardo Luz', 'Agrolândia', 'Agronômica', 'Água Doce', 'Águas de Chapecó', 'Águas Frias', 'Águas Mornas', 'Alfredo Wagner', 'Alto Bela Vista']\nclass Arvore_alcancabilidade_kruskal:\n    def __init__(self, cidades):\n        # Obtenha o grafo de estradas de Santa Catarina\n        self.G = ox.graph_from_place('Florianópolis, Brazil', network_type='drive')\n        self.cidades = set(cidades)\n        self.grafo_completo = nx.Graph()\n        self.conjuntos = {cidade: {cidade} for cidade in cidades}\n        self.arvore = nx.Graph()\n        self.distancias = {}",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "documentation": {}
+    },
+    {
+        "label": "arvore_alcan",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "peekOfCode": "arvore_alcan = Arvore_alcancabilidade_kruskal(cidades)\narvore_alcan.plotar_grafo_completo()",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Grafo_1_em_grupo.DistanciasRodoviarias.distancia_cidades",
+        "documentation": {}
+    },
+    {
+        "label": "ArvoreAlcancabilidade",
+        "kind": 6,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "peekOfCode": "class ArvoreAlcancabilidade:\n    def __init__(self, rede_petri):\n        self.rede_petri = rede_petri\n    def arvore_alcancabilidade(self):\n        \"\"\"Constrói e retorna a árvore de alcançabilidade para a Rede de Petri dada.\"\"\"\n        arvore = {}  # Dicionário para armazenar a árvore de alcançabilidade\n        visitados = set()  # Conjunto para armazenar os estados já visitados\n        fila = [tuple(self.rede_petri.marcacao)]  # Fila para explorar os estados\n        while fila:\n            marcacao_atual = fila.pop(0)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "documentation": {}
+    },
+    {
+        "label": "t1",
+        "kind": 2,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "peekOfCode": "def t1(marcacao):\n    if marcacao[0] > 0:\n        marcacao[0] -= 1\n        marcacao[1] += 1\n    return marcacao\ndef t2(marcacao):\n    if marcacao[1] > 0:\n        marcacao[1] -= 1\n        marcacao[2] += 1\n    return marcacao",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "documentation": {}
+    },
+    {
+        "label": "t2",
+        "kind": 2,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "peekOfCode": "def t2(marcacao):\n    if marcacao[1] > 0:\n        marcacao[1] -= 1\n        marcacao[2] += 1\n    return marcacao\nrede_petri.adicionar_transicao(\"t1\", t1)\nrede_petri.adicionar_transicao(\"t2\", t2)\n# Criando uma instância da classe ArvoreAlcancabilidade\narvore_gen = ArvoreAlcancabilidade(rede_petri)\n# Gerando a árvore de alcançabilidade",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "documentation": {}
+    },
+    {
+        "label": "rede_petri",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "peekOfCode": "rede_petri = RedePetri([2, 0, 0])\n# Adicionando transições e suas regras\ndef t1(marcacao):\n    if marcacao[0] > 0:\n        marcacao[0] -= 1\n        marcacao[1] += 1\n    return marcacao\ndef t2(marcacao):\n    if marcacao[1] > 0:\n        marcacao[1] -= 1",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "documentation": {}
+    },
+    {
+        "label": "arvore_gen",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "peekOfCode": "arvore_gen = ArvoreAlcancabilidade(rede_petri)\n# Gerando a árvore de alcançabilidade\narvore = arvore_gen.arvore_alcancabilidade()\nprint(arvore)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "documentation": {}
+    },
+    {
+        "label": "arvore",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "peekOfCode": "arvore = arvore_gen.arvore_alcancabilidade()\nprint(arvore)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.arvore_alcancabilidade",
+        "documentation": {}
+    },
+    {
+        "label": "RedePetri",
+        "kind": 6,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "peekOfCode": "class RedePetri:\n    def __init__(self):\n        # Inicialização dos lugares da Rede de Petri\n        # marcacao: Representa a quantidade de tokens em cada lugar.\n        # [A, B, D, C]\n        self.marcacao = [1, 1, 0, 0]  # Inicialmente, os carros estão em A e B, e D e C estão vazios.\n        # Transições da Rede de Petri\n        # tA representa a transição do carro A de A para D\n        # tB representa a transição do carro B de B para D\n        self.transicoes = [",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "documentation": {}
+    },
+    {
+        "label": "arvore_alcancabilidade",
+        "kind": 2,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "peekOfCode": "def arvore_alcancabilidade(rede_petri):\n    \"\"\"Constrói e retorna a árvore de alcançabilidade para a Rede de Petri dada.\"\"\"\n    # A árvore de alcançabildiade trata-se de um dicionário onde as chaves são as marcações e os valores são listas de \n    # marcações alcançáveis a partir da chave.\n    # Retorna a árvore de alcançabilidade para a Rede de Petri dada.\n    arvore = {}  # Dicionário para armazenar a árvore de alcançabilidade\n    visitados = set()  # Conjunto para armazenar os estados já visitados\n    fila = [tuple(rede_petri.marcacao)]  # Fila para explorar os estados\n    while fila:\n        marcacao_atual = fila.pop(0)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "documentation": {}
+    },
+    {
+        "label": "rede",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "peekOfCode": "rede = RedePetri()\narvore = arvore_alcancabilidade(rede)\nprint(arvore)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "documentation": {}
+    },
+    {
+        "label": "arvore",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "peekOfCode": "arvore = arvore_alcancabilidade(rede)\nprint(arvore)",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.exercici-3",
+        "documentation": {}
+    },
+    {
+        "label": "RedePetri",
+        "kind": 6,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.rede_petri",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.rede_petri",
+        "peekOfCode": "class RedePetri:\n    def __init__(self, marcacao_inicial):\n        self.marcacao = marcacao_inicial\n        self.transicoes = {}  # Dicionário para armazenar as transições e suas regras\n    def adicionar_transicao(self, nome, regra):\n        \"\"\"Adiciona uma transição e sua regra à Rede de Petri.\"\"\"\n        self.transicoes[nome] = regra\n    def transicoes_habilitadas(self):\n        \"\"\"Retorna uma lista de transições habilitadas para a marcação atual.\"\"\"\n        habilitadas = []",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_2.rede_petri",
+        "documentation": {}
+    },
+    {
         "label": "matriz_a",
         "kind": 5,
         "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.questao_2.matriz",
@@ -555,21 +707,30 @@
         "documentation": {}
     },
     {
+        "label": "kruskal_algorithm",
+        "kind": 2,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Kruskal",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Kruskal",
+        "peekOfCode": "def kruskal_algorithm(graph):\n    \"\"\"\n    Implementação do algoritmo de Kruskal para encontrar a Menor Árvore Geradora (MAG) de um grafo.\n    Parâmetros:\n    - graph: Um grafo ponderado representado como um objeto NetworkX.\n    Retorna:\n    - Uma lista de arestas que formam a MAG.\n    \"\"\"\n    # Função auxiliar para encontrar o representante do conjunto\n    def find(vertex):",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Kruskal",
+        "documentation": {}
+    },
+    {
+        "label": "G",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Kruskal",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Kruskal",
+        "peekOfCode": "G = nx.Graph()\nG.add_edge('A', 'B', weight=1)\nG.add_edge('B', 'C', weight=2)\nG.add_edge('A', 'C', weight=3)\nG.add_edge('C', 'D', weight=4)\nprint(\"MAG usando Kruskal:\", kruskal_algorithm(G))",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Kruskal",
+        "documentation": {}
+    },
+    {
         "label": "Dijkstra",
         "kind": 6,
         "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_dijkstra",
         "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_dijkstra",
         "peekOfCode": "class Dijkstra:\n    def __init__(self, matriz):\n        # Matriz de adjacência que representa o grafo\n        self.matriz = matriz\n        #Verifica se a matriz é direcionada ou não\n    def is_directed(self):\n        for i in range(len(self.matriz)):\n                for j in range(len(self.matriz)):\n                    if self.matriz[i][j] != self.matriz[j][i]:\n                        print(\"A matriz é direcionada\")",
         "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_dijkstra",
-        "documentation": {}
-    },
-    {
-        "label": "Grafo",
-        "kind": 6,
-        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_grafo",
-        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_grafo",
-        "peekOfCode": "class Grafo:\n    def __init__(self):\n        self\n        pass\n    def insereAresta(self, orig, dest, eh_digrafo, peso):\n        pass\n    def plot_grafo():\n        pass",
-        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.lab_grafo",
         "documentation": {}
     },
     {
@@ -678,6 +839,24 @@
         "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
         "peekOfCode": "layouts = ['circle', 'fr', 'lgl', 'rt', 'kk3d','fr_3d']\n# Função para plotar e salvar gráficos com um layout específico\ndef plot_and_save_with_layout(graph, layout_name, filename):\n    layout = layout_name\n    plot(graph, layout=layout, bbox=(300, 300), vertex_label=range(len(graph.vs))).save(f\"./grafos_plot/{filename}\")\n# Executar a plotagem e salvamento para cada layout\nfor layout_name in layouts:\n    plot_and_save_with_layout(graph_a, layout_name, f\"grafo_a_{layout_name}.png\")\n    plot_and_save_with_layout(graph_b, layout_name, f\"grafo_b_{layout_name}.png\")\n    plot_and_save_with_layout(graph_c, layout_name, f\"grafo_c_{layout_name}.png\")",
         "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.main",
+        "documentation": {}
+    },
+    {
+        "label": "prim_algorithm",
+        "kind": 2,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Prim",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Prim",
+        "peekOfCode": "def prim_algorithm(graph):\n    \"\"\"\n    Implementação do algoritmo de Prim para encontrar a Menor Árvore Geradora (MAG) de um grafo.\n    Parâmetros:\n    - graph: Um grafo ponderado representado como um objeto NetworkX.\n    Retorna:\n    - Uma lista de arestas que formam a MAG.\n    \"\"\"\n    # Inicialização\n    visited = set()  # Conjunto para armazenar os vértices visitados",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Prim",
+        "documentation": {}
+    },
+    {
+        "label": "G",
+        "kind": 5,
+        "importPath": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Prim",
+        "description": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Prim",
+        "peekOfCode": "G = nx.Graph()\nG.add_edge('A', 'B', weight=1)\nG.add_edge('B', 'C', weight=2)\nG.add_edge('A', 'C', weight=3)\nG.add_edge('C', 'D', weight=4)\nprint(\"MAG usando Prim:\", prim_algorithm(G))",
+        "detail": "Modelagem_analise_avaliacao_de_Desempenho_de_Sistemas_Automatizados.Prim",
         "documentation": {}
     },
     {
