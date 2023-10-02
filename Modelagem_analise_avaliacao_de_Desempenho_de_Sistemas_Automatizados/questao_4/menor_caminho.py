@@ -26,6 +26,7 @@ matriz_d =[ [0, 1, 0, 0, 1, 0, 0, 0, 0, 0],
             [0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
             ]
 
+
 dijkstra_1 = Dijkstra(matriz_e)
 inicio = 0  # A é o 1º vértice, então seu índice é 0
 dijkstra_1.plotar_grafo_circulo('matriz_e.png')
